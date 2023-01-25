@@ -1,0 +1,680 @@
+,Title,Address,Area,Deposit,Rent,MaintenanceCharge,Furnished,ApartmentType,TenantType,AvailableFrom,Place
+0,2 BHK Flat  In Sri Lalitham for Rent  In Velachery,"1st Main Rd,near  AM ELITE TRADITIONAL STORES",880 sqft,65000,16500,1100,Semi furnished,2 BHK,Family,15-Nov-2022,Velachery
+1,2 BHK Apartment  In Agp Swahatham for Rent  In Velachery,"Agp Swahatham  Park Avenue 2d street, near Perungudi MRTS, Udayam Nagar,  Velacherry  600042","1,000 sqft",60000,20000,1200,Fully furnished,2 BHK,Family,Ready to Move,Velachery
+2,2 BHK Flat  In Stand Alone Building for Rent  In Velachery,"St Antony's Higher Secondary School, 14th Street, Tansi Nagar, Velachery, Chennai, Tamil Nadu, India",800 sqft,80000,14300,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+3,2 BHK Flat  In Sea Apartment  for Rent  In Thiruvanmiyur,"Near Thiruvanmiyur R.T.O., Valmiki Nagar, Journalist Colony, Thiruvanmiyur, Chennai, Tamil Nadu 600041, India","1,095 sqft",150000,27500,800,Semi furnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+4,3 BHK Flat  In Badeema Manzil for Rent  In Velachery Taluk Office,velachery,"1,300 sqft",180000,30000,No,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+5,"3 BHK Apartment  In Harmonys Emerald, Thiruvanmiyur for Rent  In Thiruvanmiyur","Harmonys Emerald, Thiruvanmiyur  No 98, South Avenue, Ambedkar Nagar, Kamaraj Nagar, Thiruvanmiyur, Chennai, Tamil Nadu, INDIA.","1,825 sqft",300000,42000,4000,Semi furnished,3 BHK,Family,Ready to Move,Thiruvanmiyur
+6,2 BHK Flat  In Standalone  for Rent  In Velachery,"AARTHI SCANS & LABS - VELACHERY, 1st Main Road, Vijaya Nagar, Velachery, Chennai, Tamil Nadu, India",950 sqft,100000,18000,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+7,3 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Bypass Rd, Gangai Nagar, , near Murugan Kalyana Mandapam","1,000 sqft",90000,15000,No,Unfurnished,3 BHK,Family,Ready to Move,Velachery
+8,2 BHK Apartment  In Sea Shell for Rent  In Thiruvanmiyur,"Sea Shell  Valmiki Nagar, Thiruvalluvar Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041, India","1,100 sqft",150000,27000,1500,Semi furnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+9,3 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House,  South Ave, Kamaraj Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041, India","1,300 sqft",300000,30000,800,Semi furnished,3 BHK,Family,Ready to Move,Thiruvanmiyur
+10,2 BHK Independent House  for Rent  In Velachery,"Independent House, Brahmin Street, near dhandeswarum bus stop ",900 sqft,150000,17000,500,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+11,3 BHK Flat  In No Name for Rent  In Thiruvanmiyur,"Kamarajar nagar, near Arulmigu Marundeeswarar Temple","1,250 sqft",200000,33000,2000,Semi furnished,3 BHK,Family,Ready to Move,Thiruvanmiyur
+12,3 BHK Flat  In Appaswamy Waterford Apartments for Rent  In Thiruvanmiyur," East Coast Rd, Vasudeva Nagar Extension, Thiruvanmiyur, Chennai, Tamil Nadu 600041, India","1,368 sqft",100000,27000,3000,Semi furnished,3 BHK,Family,Ready to Move,Thiruvanmiyur
+13,2 BHK Flat  In Vishnoo Rishikesh for Rent  In Taramani,"bajanai koil street ,pallipattu,Near India Pistons Play Ground",800 sqft,100000,22000,No,Semi furnished,2 BHK,Family,Ready to Move,-
+14,3 BHK Independent House  for Rent  In Velachery,"Independent House, Amirtham Avenue, Ramagiri Nagar, Velachery, Chennai, Tamil Nadu, India","5,400 sqft",480000,60000,No,Semi furnished,3 BHK,All,Ready to Move,Velachery
+15,2 BHK Independent House  for Rent  In Velachery,"Independent House, New Secretariat Colony 100 Feet Rd, Velachery, Chennai, Tamil Nadu 600042","1,100 sqft",100000,18000,No,Unfurnished,2 BHK,Family,04-Nov-2022,Velachery
+16,Shared Room for Male In 3 BHK  In Standalone Building  In Velachery,"Tansi nagar, Near BANDHAN BANK VELACHERRY","1,100 sqft",20000,7000,No,Fully furnished,3 BHK,,Ready to Move,Velachery
+17,1 BHK Independent House  for Rent  In Velachery,"Independent House, Varadharajapuram, Near Athipathi Hospital",650 sqft,80000,11000,500,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+18,2 BHK Flat  In Balaji Apartments for Rent  In Thiruvanmiyur,"Dharmambal Street, Near SivaSakthi Ladies Hostel",850 sqft,100000,20000,500,Semi furnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+19,3 BHK Independent House  for Rent  In Velachery,"Independent House, 1st St, Ramagiri Nagar, Opp Tata Consultancy Services -Velachery","1,800 sqft",300000,60000,No,Fully furnished,3 BHK,All,Ready to Move,Velachery
+20,"1 BHK Independent House  for Rent  In Velachery, Chennai, Tamil Nadu, India","TNHB Colony, near SBI",350 sqft,50000,9500,No,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+21,2 BHK Flat  for Rent  In Thiruvanmiyur,"Standalone Building, Old Mahabalipuram Rd, near Holiday Inn Chennai OMR IT Expressway",900 sqft,75000,28000,No,Fully furnished,2 BHK,All,31-Dec-2022,Thiruvanmiyur
+22,"3 BHK Apartment  In Sai Ahanya, Velachery for Rent  In Velachery","Sai Ahanya, Velachery  Near Velachery  Bridge","1,400 sqft",150000,30000,1000,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+23,1 BHK Independent House  for Rent  In Tharamani,"Independent House, 100 Feet Rd,Near Hema Mahal",550 sqft,40000,12000,No,Unfurnished,1 BHK,Family,01-Dec-2022,Tharamani
+24,1 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Bye Pass Road, near  Sri Murugan Marriage Hall A/C ",620 sqft,30000,8500,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+25,1 BHK Independent House  for Rent  In Medavakkam,"Independent House, Velachery Main Rd near Andhra Bank",300 sqft,25000,7000,No,Unfurnished,1 BHK,All,Ready to Move,-
+26,1 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Rd Near GRTJewellers",600 sqft,50000,10000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+27,1 BHK Flat  In Sb for Lease  In Thiruvanmiyur,South Ave Kamaraj Nagar near Sri Sankara Vidyashramam Matriculation Higher Secondary School,550 sqft,450000,300,300,Unfurnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+28,1 RK Independent House  for Rent  In Thiruvanmiyur,"Independent House, 51st cross street, Thiruvalluvar Nagar,  Thiruvanmiyur",450 sqft,35000,8500,No,Unfurnished,1 RK,Bachelor,Ready to Move,Thiruvanmiyur
+29,"2 BHK Flat  In Arunachaleshwar Arulagam  for Rent  In Velachery - Taramani Link Road  Inner Ring Road, Tharamani Road",seven star beauty salon,"1,000 sqft",100000,25000,1000,Fully furnished,2 BHK,All,Ready to Move,Tharamani
+30,4+ BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House,  Valmiki Nagar,  Near  RTO Thiruvanmiyur","4,500 sqft",1300000,130000,No,Semi furnished,4+ BHK,All,Ready to Move,Thiruvanmiyur
+31,1 BHK Independent House  for Rent  In Velachery,"Independent House, Britto School 50, Ezumudaliyar St Railar Nagar, TNHB Colony,",450 sqft,50000,10000,1000,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+32,2 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, ECR near RTO Thiruvanmiyur",600 sqft,60000,12000,500,Unfurnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+33,1 BHK Flat  In Sri Ram Flats for Rent  In Velachery,"Vijaya Nagar , near Sangeetha Gurukulam",600 sqft,70000,11000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+34,1 BHK Independent House  for Lease  In Velachery,mgr nagar ,600 sqft,400000,400000,400000,Unfurnished,1 BHK,Family,15-Nov-2022,Velachery
+35,2 BHK Independent House  for Rent  In Velachery,"Independent House, Vijaya Nagar, near Murugar Temple","1,100 sqft",100000,20000,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+36,2 BHK Flat  for Rent  In Velachery,"Independent House, Sarathy Nagar, near SM3 Tea Stall and  Vijaya Nagar Bus Terminus",800 sqft,75000,15000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+37,2 BHK Flat  In Real Value Sai Brindavan for Rent  In Erikkarai,"Velachery, Chennai, Tamil Nadu, INDIA.","1,015 sqft",90000,18000,1880,Semi furnished,2 BHK,Family,17-Nov-2022,-
+38,"2 BHK Flat  In Natrajan Flats for Rent  In 2nd East Street, Thiruvanmiyur",2nd east street kamaraj nagar-behind S2 Cinemas,"1,000 sqft",180000,30000,No,Semi furnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+39,"2 BHK Flat  In Devi Apartment for Rent  In 1st Seaward Road, Thiruvanmiyur",opposit to Bapalal Bhavan,650 sqft,110000,17000,600,Semi furnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+40,1 BHK Flat  In Srinivas Sai Nivas for Rent  In Velachery,"Sri Sakthi Vijayalakshmi Nagar, Near PRIYADARSHINI CELL UNIVERSE",400 sqft,75000,7500,No,Semi furnished,1 BHK,All,Ready to Move,Velachery
+41,3 BHK Flat  In Ms Flat for Rent  In Swaminathan Nagar,Subramanyam Salai Road Near London bakery,"1,500 sqft",75000,25000,No,Semi furnished,3 BHK,All,Ready to Move,-
+42,2 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Valmiki Nagar, Thiruvalluvar Nagar, near RTO Thiruvanmiyur",753 sqft,80000,15000,No,Semi furnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+43,"1 BHK Independent House  for Rent  In Tnhb Colony, Velachery ","Independent House, near by st.brittos acadamy , mutthumariamman kovil",600 sqft,50000,8000,No,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+44,1 RK Independent House  for Rent  In Velachery,"Independent House, Velachery Bypass Rd, near Geetham Veg Restaurant",600 sqft,70000,12000,500,Unfurnished,1 RK,Bachelor,Ready to Move,Velachery
+45,3 BHK Flat  for Rent  In Velachery,"Independent House, Velachery Bypass Rd, Gangai Nagar near Murugan Kalyana Mandapam","1,189 sqft",250000,25000,500,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+46,2 BHK Flat  In Sb for Rent  In Velacherry,Srinivasanagar Near San Academy velachery,"1,100 sqft",50000,14000,No,Semi furnished,2 BHK,Family,20-Dec-2022,-
+47,2 BHK Flat  In Nishalaya Apartments for Rent  In Go Futsal (velachery),"Sheshadripuram Main Rd, Seshadripuram, near Go Futsal velachery","1,200 sqft",150000,35000,2000,Fully furnished,2 BHK,Family,Ready to Move,-
+48,1 BHK Independent House  for Lease  In Thiruvanmiyur,"Independent House, Near RTO office",450 sqft,900000,500,500,Fully furnished,1 BHK,Family,01-Jan-2023,Thiruvanmiyur
+49,2 BHK Flat  In Velachery for Rent  In 4th Cross Street,"4th Cross Street,Nethaji Colony",650 sqft,50000,11000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+50,2 BHK Independent House  for Rent  In Velachery,"Independent House, ks hospital","1,300 sqft",150000,15000,No,Semi furnished,2 BHK,All,Ready to Move,Velachery
+51,"3 BHK Flat  In Appaswamy Waterford Apartments, Thiruvanmiyur for Rent  In Thiruvanmiyur",ECR,"1,233 sqft",150000,33000,3000,Unfurnished,3 BHK,Family,Ready to Move,Thiruvanmiyur
+52,1 RK Independent House  for Rent  In Thiruvanmiyur,kumaraguru .near kalashetra,300 sqft,50000,8500,No,Semi furnished,1 RK,Bachelor,Ready to Move,Thiruvanmiyur
+53,1 RK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Raja Srinivasan nagar",350 sqft,40000,4000,No,Unfurnished,1 RK,All,10-Nov-2022,Thiruvanmiyur
+54,1 BHK Independent House  for Lease  In Anbil Dharmalingam Street,pheonix mall backside,600 sqft,350000,200,200,Unfurnished,1 BHK,All,Ready to Move,-
+55,1 BHK Flat  In Standalone  for Rent  In Velachery,"St. Savio Matriculation Higher Secondary School, VGP Seetapathi Street, VGP Seethapathy Nagar, Velachery, Chennai, Tamil Nadu, India",400 sqft,40000,9000,No,Unfurnished,1 BHK,Bachelor,Ready to Move,Velachery
+56,2 BHK Independent House  for Rent  In Velachery,"Independent House, Gangai Nagar,near murugan kalyana mandapam",800 sqft,50000,15000,No,Fully furnished,2 BHK,All,Ready to Move,Velachery
+57,1 BHK Flat  In Sea Breeze for Rent  In East Coast Road - Ecr,"1st Seaward Road, East Coast Road - ECR, Thiruvanmiyur, Chennai, Tamil Nadu, INDIA.",600 sqft,90000,15000,600,Semi furnished,1 BHK,All,Ready to Move,-
+58,"2 BHK Flat  In Pjp Garden Apartments, Velachery for Rent  In Velachery","Velachery Bypass Rd, Gangai Nagar near Murugan Kalyana Mandapam","1,033 sqft",150000,20000,800,Unfurnished,2 BHK,Family,07-Nov-2022,Velachery
+59,"3 BHK Flat  In Sarala Homes for Rent  In Nadesan Nagar 2nd Street, Ramkrishna Nagar",2nd street nadesan nagar,"1,700 sqft",150000,26000,No,Unfurnished,3 BHK,Family,Ready to Move,-
+60,3 BHK Flat  In Shri Balaji Aishwariya for Rent  In Velachery,"Vijaya Nagar 3rd cross street,Near KFC","1,620 sqft",200000,33000,600,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+61,1 BHK Independent House  for Rent  In Velachery,"Independent House, TNHB Colony Near Sri Thulasi Bakery",400 sqft,30000,6000,No,Unfurnished,1 BHK,All,01-Dec-2022,Velachery
+62,1 RK Independent House  for Rent  In Velachery,"Independent House, TNHB Colony Near Sri Thulasi Bakery",170 sqft,20000,4000,No,Unfurnished,1 RK,Bachelor,Ready to Move,Velachery
+63,2 BHK Independent House  for Rent  In Velachery,"Independent House, Nehru Nagar, near  Saravana Super Market",600 sqft,50000,12500,500,Unfurnished,2 BHK,Family,01-Dec-2022,Velachery
+64,1 RK Independent House  for Lease  In Velachery,"Standalone Building, venkateswaranagar Near   fb cake shop",350 sqft,400000,500,500,Unfurnished,1 RK,All,Ready to Move,Velachery
+65,3 BHK Independent House  for Rent  In Velachery,"Independent House, TNHB Colony Near St. Britto's Academy","1,800 sqft",180000,30000,No,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+66,2 BHK Flat  In Sri Gayathri Construction for Rent  In Velachery,"Thangai Nagar,  Near  Sri Murugan Marriage Hall A/C",830 sqft,75000,14500,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+67,2 BHK Apartment  In Kgeyes Carolinaa for Rent  In Velachery,"Kgeyes Carolinaa  KGEYES Carolinaa, Bharani Street, Ramagiri Nagar, Velachery, Chennai, Tamil Nadu 600042, India",932 sqft,132000,22000,2500,Semi furnished,2 BHK,All,11-Nov-2022,Velachery
+68,1 BHK Flat  In Standelone Building for Rent  In Velachery,"TNHB Colony,  near Britto School",429 sqft,30000,7000,No,Fully furnished,1 BHK,All,Ready to Move,Velachery
+69,3 BHK Independent House  for Rent  In Velachery,"Independent House  Independent House, 2nd St, Near Isha Homes","1,300 sqft",250000,22000,750,Unfurnished,3 BHK,Family,Ready to Move,Velachery
+70,1 BHK Independent House  for Rent  In Velachery Bus Stand,Karumariamman nagar,450 sqft,15500,7500,No,Semi furnished,1 BHK,All,Ready to Move,Velachery
+71,1 BHK Flat  In Sai Anu Prema Apartments Velachery for Rent  In Velachery,"Park Avenue VOC St,  near   Chellas Homes",500 sqft,50000,9000,1500,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+72,"2 BHK Independent House  for Rent  In Ezumudaliyar Street, Velachery",Phoenix mall back side,"1,000 sqft",90000,15000,1000,Semi furnished,2 BHK,All,Ready to Move,Velachery
+73,1 BHK In Na for Rent  In Velachery,Mathiazghan street velachery,400 sqft,20000,6500,200,Unfurnished,1 BHK,All,Ready to Move,Velachery
+74,3 BHK Independent House  for Rent  In Velachery,"Independent House, Natesan nagar 1st street, 100 ft road velachery","1,800 sqft",150000,25000,1000,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+75,"1 BHK Independent House  for Rent  In  Velachery, ","Independent House,  Gangai Nagar, near  Murugan Kalyana Mandapam",500 sqft,30000,8500,No,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+76,1 BHK Flat  In Stabndalone Building  for Rent  In Velachery,"Velachery Bypass Rd, near Murugar Temple",400 sqft,25000,7000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+77,1 BHK Independent House  for Rent  In Velachery,"Independent House, no.22/23 lakshmi nagar 4th street, velachery backside of murugan temple",500 sqft,40000,9000,500,Fully furnished,1 BHK,Family,Ready to Move,Velachery
+78,2 BHK Flat  In Sai Asvatha for Rent  In Velachery,100 Feet Tharamani Link Rd Behind Buhari Hotel,830 sqft,60000,13000,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+79,"3 BHK Flat  In Standalone Building  for Rent  In , Thiruvanmiyur", South Ave near  Sri Sankara Vidyashramam Matriculation Higher Secondary School,"1,200 sqft",240000,40000,No,Fully furnished,3 BHK,All,Ready to Move,Thiruvanmiyur
+80,3 BHK Flat  In Standalone Building  for Rent  In Thiruvanmiyur,"South Ave, Near Sri Sankara Vidyashramam Matriculation Higher Secondary School","1,200 sqft",250000,37000,No,Semi furnished,3 BHK,All,10-Nov-2022,Thiruvanmiyur
+81,3 BHK Independent House  for Rent  In Velachery,"Independent House, VIJAYA NAGAR BUS TERMINUS","1,100 sqft",120000,20000,500,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+82,2 BHK Apartment  In Vikas Plaza for Rent  In Velachery,"Vikas Plaza  Velachery, Chennai - 600042, Tamil Nadu, INDIA.",960 sqft,60000,15000,1700,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+83,1 BHK Independent House  for Rent  In Tnhb Colony,"Independent House, 10th Street",450 sqft,60000,8500,No,Unfurnished,1 BHK,Family,Ready to Move,-
+84,2 BHK Flat  In Thirumal Gardens Velachery for Rent  In Velachery,"1st Cross Street, Dr.Seethapathy Nagar, Velachery, Chennai, Tamil Nadu, INDIA.",975 sqft,18000,18000,1500,Semi furnished,2 BHK,Family,01-Dec-2022,Velachery
+85,2 BHK Independent House  for Rent  In Pallipattu,"Independent House, Near India Pistons ground",700 sqft,70000,12000,300,Unfurnished,2 BHK,Family,Ready to Move,-
+86,2 BHK Flat  In Dev Apartment for Rent  In Velachery,"Srishti Dental Clinic, Baby Nagar, Velachery, Chennai, Tamil Nadu, India",750 sqft,108000,18000,1500,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+87,"1 BHK Independent House  for Lease  In Thiruvalluvar Nagar, Thiruvanmiyur",33rd cross street,600 sqft,800000,300,300,Semi furnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+88,2 BHK Flat  In Elegant Apartments Tiruvanmiyur for Rent  In Elegant Apartments,Kuppam Beach Road,700 sqft,120000,20000,1000,Fully furnished,2 BHK,All,Ready to Move,-
+89,2 BHK Flat  In Boopathy Apartment for Rent  In Thiruvanmiyur,"W Tank Street, Lalitha Nagar near Arulmigu Marundheeshvarar Temple",850 sqft,138000,21000,1500,Semi furnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+90,1 BHK Independent House  for Rent  In Thiruvanmiyur R.t.o.,"Independent House, 9th cross street Valmiki Nagar",450 sqft,50000,9000,300,Unfurnished,1 BHK,Family,Ready to Move,Thiruvanmiyur
+91,1 BHK Independent House  for Lease  In Kalikunram Main Road,29 Thiruveethi Amman Kovil street kalikundram Chennai 600113,600 sqft,500000,400,400,Unfurnished,1 BHK,All,Ready to Move,-
+92,1 BHK Independent House  for Rent  In Velachery,"Independent House, Putherikarai Street, Near Droupathy Amman Koil, dhaeshwaram  temple ",500 sqft,40000,8000,No,Semi furnished,1 BHK,All,Ready to Move,Velachery
+93,2 BHK Independent House  for Rent  In Velachery,"Independent House, No: 5/17, Gangai Amman Koil 1st Street, Kamarajapuram, Velachery, Chennai - 42. Near Gangai Amman Koil",600 sqft,30000,8500,300,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+94,2 BHK Apartment  In Malles Arcadiaa for Rent  In Velachery,"Malles Arcadiaa  AGS Colony, Velachery, Chennai - 600042, Tamil Nadu, INDIA.",909 sqft,100000,22000,2000,Semi furnished,2 BHK,Family,01-Dec-2022,Velachery
+95,Shared Room for Female In 2 BHK  In Rajeswari Velachery In Vijay Nagar,velachery,927 sqft,15000,15000,No,Unfurnished,2 BHK,,05-Nov-2022,Velachery
+96,2 BHK Flat  In Ramakrishna for Rent  In Adyar,"OMR Service Rd, Pallipattu, Near The Voluntary Health Services",900 sqft,100000,14000,1000,Semi furnished,2 BHK,Family,Ready to Move,-
+97,2 BHK Independent House  for Rent  In Velachery ,"Independent House,  Velachery - Tambaram Main Rd Near  The Chennai Silks - Velachery",970 sqft,120000,17000,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+98,4 BHK Independent House  for Rent  In Velachery,"Independent House,  Velachery - Tambaram Main Rd near The Chennai Silks - Velachery","2,100 sqft",400000,40000,No,Semi furnished,4 BHK,All,Ready to Move,Velachery
+99,2 BHK Flat  In Thirumal Gardens for Rent  In Velachery,"1st Cross Street, Dr.Seethapathy Nagar, Velachery, Chennai, Tamil Nadu, INDIA.",975 sqft,100000,18000,1000,Semi furnished,2 BHK,Family,01-Dec-2022,Velachery
+100,1 BHK Independent House  for Lease  In Velachery,"Independent House, Gandhi road ",560 sqft,500000,300,300,Semi furnished,1 BHK,All,Ready to Move,Velachery
+101,"1 BHK Flat  In Sangareshwara Illam for Rent  In 1st Cross Street, Tharamani","Thanthai Periyar Nagar, Near Hotel Vaaniyambadi Biryani",650 sqft,25000,7000,No,Unfurnished,1 BHK,All,Ready to Move,Tharamani
+102,2 BHK Flat  In Standalone Bulding Veg Family Only for Rent  In Velachery," Velachery Rd, near Yoganarasimhar Temple",835 sqft,100000,16000,600,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+103,"3 BHK Flat  In Shruti Enclave ,velachery for Rent  In Dhandeeswaram, Velachery",dhandeeswaram 10 th cross street,"1,150 sqft",65000,17000,No,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+104,2 BHK Apartment  In Aks Garden for Rent  In Velachery,"Aks Garden  Ramagiri Nagar 2nd Street, Velachery, Chennai South, Chennai, Tamil Nadu, INDIA.","1,173 sqft",120000,23000,1300,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+105,3 BHK Flat  In South Winds for Rent  In West Velachery,"6th Street, E B colony, Near Bala Saravana Vidyalaya Matriculation School","1,100 sqft",51000,17000,1000,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+106,1 BHK Independent House  for Lease  In Velachery,1st main road Rajalakshmi nagar,600 sqft,700000,-,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+107,1 BHK Independent House  for Rent  In Velachery,"Independent House, 5th Main Rd, MGR Nagar, Near Sri Murugan Marriage Hall A/C",440 sqft,25000,8000,500,Unfurnished,1 BHK,All,Ready to Move,Velachery
+108,"1 RK Independent House  for Rent  In Rajaji Street, Tharamani","No 12, Kattabomman Street,Thandai Periyar Nagar,Tharamani",400 sqft,20000,3500,No,Unfurnished,1 RK,Family,Ready to Move,Tharamani
+109,1 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Bypass Rd, Near BPCL: Velachery",250 sqft,20000,10000,No,Semi furnished,1 BHK,Bachelor,01-Dec-2022,Velachery
+110,"1 BHK Independent House  for Rent  In 6th Main Road, Velachery","6th Main road, Velacherry",900 sqft,30000,10000,500,Unfurnished,1 BHK,Bachelor,Ready to Move,Velachery
+111,3 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, South Avenue Road Vasudeva Nagar, Near Sri Ramachandra Convention Center","1,350 sqft",180000,29900,No,Semi furnished,3 BHK,Family,Ready to Move,Thiruvanmiyur
+112,2 BHK Independent House  for Rent  In Madipakkam,"Independent House, Raghava Nagar, Inner Ring Road  near Sunshine Chennai Senior Secondary School","1,200 sqft",90000,13500,No,Fully furnished,2 BHK,Family,Ready to Move,-
+113,3 BHK Flat  In Si Belvedere for Rent  In Velachery,"Velachery, Chennai, Tamil Nadu, INDIA. ","1,750 sqft",330000,33000,1000,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+114,2 BHK Flat  In Kurnji Flats for Rent  In Thiruvanmiyur,"RTO office thiruvallar nagar thiruvamiiyur Amman Kovil junction Mig M4 S2 Valmiki Nagar, Thiruvalluvar Nagar, ",796 sqft,84000,14000,No,Unfurnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+115,1 BHK Independent House  for Rent  In Velachery,"Independent House, Lakshmipuram , Near Mahalingam Flats",350 sqft,25000,12000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+116,2 BHK Flat  In Bave Apartment  for Rent  In Velachery,Balamurugan Nagar near to Fouzi Mini Mart,920 sqft,150000,17000,1500,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+117,2 BHK Flat  In Shiv Sundaram Only Veg Family for Rent  In Nattar Street Near Dabdeeswaran Bus Stand ,velachery,685 sqft,100000,16000,600,Semi furnished,2 BHK,Family,Ready to Move,-
+118,1 BHK Independent House  for Rent  In Velachery,"Independent House, 99 street,TNHB Colony,Near Lakshmi Sri Fancy",550 sqft,50000,8500,500,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+119,2 BHK Independent House  for Rent  In Artvi Swimming Pool,lakshmi.nagar,800 sqft,90000,15000,No,Semi furnished,2 BHK,Family,01-Dec-2022,-
+120,3 BHK Independent House  for Rent  In Journalist Colony 1st Street,"Independent House, 38, SH 49, Valmiki Nagar, Thiruvalluvar Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041","1,600 sqft",500000,80000,No,Semi furnished,3 BHK,All,15-Nov-2022,-
+121,1 BHK Flat  In Balu Enclave for Rent  In Velachery,"Baby Nagar , 2nd cross street Near Hot Chips Veg Restaurant",550 sqft,50000,10000,500,Unfurnished,1 BHK,All,Ready to Move,Velachery
+122,"2 BHK Flat  In Natwest Paradise, Velachery for Rent  In Velachery",K S Nursing Home,820 sqft,65000,15000,1500,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+123,1 BHK Independent House  for Rent  In Tharamani,"Independent House, Jawaharlal Nehru Rd Near American International School Chennai",450 sqft,35000,7000,No,Unfurnished,1 BHK,All,Ready to Move,Tharamani
+124,2 BHK Independent House  for Rent  In Velachery,"Independent House, Nethaji Rd near St. Brittos Academy",600 sqft,100000,13500,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+125,1 BHK Independent House  for Rent  In 4th Cross Street,"Independent House, Plot No 13 Nethaji Colony 4th Cross St",450 sqft,50000,10000,500,Unfurnished,1 BHK,All,Ready to Move,-
+126,2 BHK Independent House  for Rent  In Velachery,"Independent House, Bhavani St Near Devi Karumariamman Temple","1,100 sqft",50000,14500,300,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+127,"1 BHK Flat  for Rent  In Taramani Gate, Iit Madras","independent house, near Taramani iit gate",400 sqft,50000,5000,200,Unfurnished,1 BHK,All,Ready to Move,-
+128,1 BHK Flat  In Standalone Building  for Rent  In Tharamani,"Inner Ring Rd, Near  IRT-Institute of Road Transport,",540 sqft,30000,8000,500,Unfurnished,1 BHK,All,12-Nov-2022,Tharamani
+129,2 BHK Flat  In Vj F for Rent  In Subramanya Avenue,Near 4th seaward road,"1,000 sqft",75000,19000,500,Semi furnished,2 BHK,Family,Ready to Move,-
+130,2 BHK Independent House  for Rent  In Velachery,"Independent House,  Velachery Rd,near   Phoenix Marketcity ",800 sqft,50000,12000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+131,"1 BHK Flat  In Sai Velavan Apartment for Rent  In 3rd Main Road, Velachery","1st Cross Street, Vijay Nagar, Velachery, Chennai, Tamil Nadu, INDIA",650 sqft,100000,12000,No,Semi furnished,1 BHK,All,Ready to Move,Velachery
+132,1 BHK Apartment  In Nathan Complex for Rent  In Thiruvanmiyur,"Nathan Complex  Plot No.69, E Coast Rd, Thiruvanmiyur, Chennai-600041, Tamil Nadu, INDIA. ",600 sqft,70000,14000,1300,Semi furnished,1 BHK,Family,Ready to Move,Thiruvanmiyur
+133,3 BHK Flat  In Si Belvedere for Rent  In Velachery,"Velachery, Chennai, Tamil Nadu, INDIA. ","1,750 sqft",280000,28000,1000,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+134,2 BHK Flat  In Venkatesh Flats for Rent  In Velachery,Velachery Rd near Velachery Police Station,"1,150 sqft",80000,16000,1000,Semi furnished,2 BHK,All,Ready to Move,Velachery
+135,1 BHK Flat  In Lakshmi Nivas for Lease  In Velachery,Throwpathy Amman Koil St Near Government Higher Secondary School,450 sqft,350000,1000,1000,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+136,1 BHK Independent House  for Rent  In Tharamani,"Independent House, Sardar Patel Rd, near MATHYA KAILASH",450 sqft,20000,9000,No,Unfurnished,1 BHK,Bachelor,15-Nov-2022,Tharamani
+137,1 RK Independent House  for Rent  In Velachery,"Independent House, TNHB Colony,Near Britto School",550 sqft,40000,7000,No,Unfurnished,1 RK,Family,Ready to Move,Velachery
+138,"2 BHK In Jyotsna, Velachery for Rent  In Velachery",Padmavathy Nagar,"1,100 sqft",100000,20000,900,Semi furnished,2 BHK,All,Ready to Move,Velachery
+139,1 BHK Flat  In Guna Mangai for Rent  In Velachery,"Ramakrishna Nagar, 1st Main road",450 sqft,150000,15000,500,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+140,3 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, CGE Housing Colony near Lions Club of South Madras Medical Aid Centre","1,400 sqft",50000,15000,No,Unfurnished,3 BHK,Family,Ready to Move,Thiruvanmiyur
+141,2 BHK Flat  In Sai Homes for Rent  In Madipakkam,Puzhuthivakkam near Sunshine Chennai Senior Secondary School,870 sqft,72000,12000,100,Semi furnished,2 BHK,All,Ready to Move,-
+142,"2 BHK Flat  In Indira Arcade , Seethapathy Nagar,  Velachery for Rent  In Indira Arcade", VGP 2nd cross street Seethapathy Nagar,820 sqft,75000,18000,800,Semi furnished,2 BHK,Family,01-Dec-2022,Velachery
+143,2 BHK Flat  In Standalone Building  for Rent  In Velachery,"Nethaji Road, TNHB Colony, Near St. Britto's Academy","1,050 sqft",80000,15000,500,Unfurnished,2 BHK,All,01-Dec-2022,Velachery
+144,1 BHK Flat  In Standalone Building  for Rent  In Velachery,"Nethaji Road, TNHB Colony, near  St. Britto?s Academy - Best CBSE School in Velachery, Best CBSE School in",600 sqft,50000,9000,500,Unfurnished,1 BHK,All,01-Dec-2022,Velachery
+145,1 BHK Independent House  for Rent  In Velachery,"Independent House, near phoenix mall",400 sqft,35000,8000,600,Semi furnished,1 BHK,All,Ready to Move,Velachery
+146,"2 BHK Independent House  for Rent  In Ganapathy 1st Street, Thiruvanmiyur","Independent House, Ganapathy 1st Street/Avvai Nagar/Near Bliss Women's Hostel",900 sqft,90000,18000,500,Semi furnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+147,1 BHK Independent House  for Rent  In Artvi Swimming Pool,artvi swimming pool,500 sqft,60000,10500,No,Semi furnished,1 BHK,Family,01-Dec-2022,-
+148,2 BHK Flat  In Sai Hari for Rent  In Velachery,North Home Line Road near Arulmigu Sri Bhuvaneswari Amman,"1,250 sqft",50000,20000,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+149,1 BHK Independent House  for Rent  In David Matriculation Higher Secondary School,"Independent House, Gandhi Road, Near  David Matriculation Higher Secondary School",600 sqft,50000,10000,No,Semi furnished,1 BHK,Bachelor,Ready to Move,-
+150,3 BHK Flat  In Gat for Rent  In Gattala Valour Kottam,prakasam street t nagar chennai 6017,"2,100 sqft",800000,75000,5000,Semi furnished,3 BHK,Family,Ready to Move,-
+151,2 BHK Flat  In Vasavi Flats for Rent  In Velachery,"3rd Main Rd, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",600 sqft,50000,11000,500,Semi furnished,2 BHK,All,Ready to Move,Velachery
+152,1 RK Independent House  for Rent  In Velachery,"Independent House, Madhavan St, Nehru Nagar,  near Muthu Maariamman Temple",200 sqft,10000,5000,No,Unfurnished,1 RK,Bachelor,Ready to Move,Velachery
+153,3 BHK Flat  In Iswerya Flats for Rent  In Thiruvanmiyur,Canal Road,"1,350 sqft",200000,34000,1000,Semi furnished,3 BHK,Family,Ready to Move,Thiruvanmiyur
+154,2 BHK Flat  In Gangai Nagar 1 Main Road Society for Rent  In Velachery," Thangai NagarNear Murugan Kalyana Mandapam,",950 sqft,50000,16000,No,Unfurnished,2 BHK,All,Ready to Move,Velachery
+155,2 BHK Independent House  for Rent  In Tharamani,"Independent House, 100 Feet Rd Mahathma Gandhi Nagar near  Masjid Allah",800 sqft,100000,15000,1000,Unfurnished,2 BHK,Family,Ready to Move,Tharamani
+156,1 RK Independent House  for Rent  In Velachery,"Independent House, Mettu St, Near TNSC Bank and Yes Bank",450 sqft,30000,8500,No,Semi furnished,1 RK,Bachelor,Ready to Move,Velachery
+157,3 BHK Independent House  for Rent  In Velachery,"Independent House, Kubera Nagar near The Chennai Silks - Velachery","1,150 sqft",50000,17500,1500,Unfurnished,3 BHK,All,10-Nov-2022,Velachery
+158,2 BHK Independent House  for Rent  In Velachery,"Independent House,  Amman Koil St near   Government Higher Secondary School",900 sqft,30000,11000,No,Semi furnished,2 BHK,All,Ready to Move,Velachery
+159,3 BHK Apartment  In Vasanth Apartment for Rent  In Velachery,Vasanth Apartment  TN Police Housing Colony near The Westin Chennai Velachery,"1,300 sqft",100000,26000,2000,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+160,3 BHK Flat  In Tropical Shiva for Rent  In Velachery,"8,Bhuvaneswari First Main Road Velachery","1,350 sqft",120000,24000,1500,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+161,2 BHK Flat  In Race View Apartment for Rent  In Velachery,"No 13 Cart Track Road, Vandikaran Street, Velachery Check post, Chennai, 600042, Tamil Nadu, INDIA.","1,000 sqft",80000,13500,600,Semi furnished,2 BHK,All,21-Nov-2022,Velachery
+162,2 BHK Independent House  for Rent  In Velachery,"Independent House, Annai Indira Nagar, near Velachery Fire Station","1,350 sqft",100000,20000,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+163,2 BHK Flat  In Dev Apartments for Rent  In Velachery,near by  Thiruveedhi Amman Temple,800 sqft,160000,21000,1000,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+164,1 BHK Independent House  for Rent  In Tharamani,"Independent House, Thanthai Periyar Nagar near Hema Mahal",550 sqft,50000,9000,No,Unfurnished,1 BHK,Family,26-Nov-2022,Tharamani
+165,1 BHK Independent House  for Rent  In Taramani,"Independent House, no.33,gandhi street, taramani,ch-600113",500 sqft,40000,9000,No,Unfurnished,1 BHK,Family,Ready to Move,-
+166,"3 BHK Flat  In Casa Blanca for Rent  In Devi Karumariamman Nagar Extension,velachery","Velachery, Chennai","1,270 sqft",200000,28000,No,Semi furnished,3 BHK,Family,Ready to Move,-
+167,3 BHK Independent House  for Rent  In Bhuvaneshwari Nagar,"Independent House, Railway station back side. ","1,400 sqft",300000,25000,5000,Semi furnished,3 BHK,All,Ready to Move,-
+168,2 BHK Flat  In Sai Akash Veena for Rent  In Annai Indira Nagar,"Sivasakthi street, near Coconut Grove","1,132 sqft",200000,20000,No,Semi furnished,2 BHK,Family,Ready to Move,-
+169,2 BHK Flat  In Sri Ganga for Rent  In Velachery,"Gangai Nagar, Near 100 ft road, ",900 sqft,50000,20000,500,Fully furnished,2 BHK,All,Ready to Move,Velachery
+170,"1 BHK Independent House  for Rent  In Lakshmi Nagar 1st Street, Velachery",grt jwellery ,550 sqft,20000,7500,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+171,4 BHK Independent House  for Rent  In Thiruvalluvar ,"Independent House, 7th Cross St., opp. to GIM and Play Ground","2,700 sqft",215000,43000,No,Semi furnished,4 BHK,All,15-Nov-2022,-
+172,3 BHK Independent House  for Rent  In Velachery,"Independent House, TNHB COLONY Near Phoenix Marketcity","1,000 sqft",100000,18000,No,Unfurnished,3 BHK,All,Ready to Move,Velachery
+173,"2 BHK Flat  In 1551 1st Cross Street, Sri Ram Nagar,chennai 600041 for Rent  In No 1, Sri Ram Nagar 1st Cross Street Thiruvanmyur",Sriram Nagar,"1,200 sqft",180000,30000,2000,Semi furnished,2 BHK,Family,25-Nov-2022,-
+174,1 BHK Independent House  for Rent  In Tharamani,"Independent House, Taramani 100 Feet Road Ambedkar Street ,  anna nagar  Near Tata Consultancy Services -Velachery",400 sqft,50000,10000,No,Unfurnished,1 BHK,Family,Ready to Move,Tharamani
+175,1 BHK Independent House  for Rent  In Taramani,"Independent House, Periyar Street, MG Nagar, Near Amma Unavagam and Taramani Bus Station",600 sqft,20000,6500,No,Unfurnished,1 BHK,All,Ready to Move,-
+176,1 RK Independent House  for Lease  In Thiruvanmiyur,"Independent House, Indira Nagar 29th Cross St, Valluvar Nagar,Near V J Clinic",250 sqft,300000,300,300,Unfurnished,1 RK,All,Ready to Move,Thiruvanmiyur
+177,2 BHK Flat  In Solai Foundation for Rent  In Chitlapakkam,"Shaw Wallace Colony  , near  Online cake delivery in Chennai",835 sqft,60000,12000,300,Semi furnished,2 BHK,Family,Ready to Move,-
+178,1 BHK Independent House  for Lease  In Velachery,1281 79 th lane TNHB COLONY VELACHERRY,420 sqft,400000,-,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+179,"3 BHK Flat  In Parvathy Illam for Rent  In 50,vivekananda Street,srinivasa Nagar","50,vivekananda street,srinivasa nagar, madipakkam","1,200 sqft",100000,18000,1500,Fully furnished,3 BHK,Family,Ready to Move,-
+180,3 BHK Flat  In Sri Venkatesan Illam for Rent  In Velachery,"2nd street, VOC nagar, Near  San Academy School","1,000 sqft",65000,14500,No,Unfurnished,3 BHK,Family,Ready to Move,Velachery
+181,4 BHK Apartment  In Landmark Timberton for Rent  In Thiruvanmiyur,"Landmark Timberton  No 538-540, Kamaraj Avenue, Thiruvanmiyur, Chennai-600041, Tamil Nadu, INDIA","2,500 sqft",1000000,80000,No,Semi furnished,4 BHK,All,Ready to Move,Thiruvanmiyur
+182,1 BHK Flat  In Raaj Illam for Rent  In 5128 Kalai Nagar 12th West Street,Kamaraj Nagar West,650 sqft,80000,16000,No,Semi furnished,1 BHK,All,Ready to Move,-
+183,2 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, PTC colony","1,000 sqft",100000,18000,No,Semi furnished,2 BHK,Bachelor,Ready to Move,Thiruvanmiyur
+184,1 BHK Independent House  for Rent  In Taramani,"Independent House, Pillayar koil st near  Sri Murugan Fancy Store ",320 sqft,15000,8000,No,Semi furnished,1 BHK,All,15-Nov-2022,-
+185,3 BHK Flat  In Guna Mangai for Rent  In Velachery,"Ramakrishna Nagar, 1st Main Road","1,200 sqft",150000,22000,800,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+186,2 BHK Flat  In Guna Mangai for Rent  In Velachery,"Ramakrishna Nagar, 1st Main Road",980 sqft,150000,18000,500,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+187,2 BHK Independent House  for Rent  In Velachery,"Independent House, AGS Colony,  near Jerusalame church",650 sqft,50000,10000,500,Semi furnished,2 BHK,All,Ready to Move,Velachery
+188,1 BHK Independent House  for Rent  In Britto School,"Independent House, ask nager",700 sqft,80000,13500,No,Semi furnished,1 BHK,All,Ready to Move,-
+189,2 BHK Flat  In Geetham for Rent  In Velachery,"4th Main Rd, AGS Colony, Near Anitha Clinic",850 sqft,60000,14500,1000,Semi furnished,2 BHK,Family,04-Nov-2022,Velachery
+190,1 RK Flat  In Mur for Rent  In Meenakshi Diabetic Centre,Near muthumaari amman koil,250 sqft,30000,4000,No,Unfurnished,1 RK,All,16-Nov-2022,-
+191,2 BHK Flat  In Real Value Sai Brindavan Flats for Rent  In Adambakkam,"2nd Main Rd, RamaKrishna Nagar, Adambakkam, Chennai, Tamil Nadu 600088, India","1,050 sqft",120000,20000,1000,Semi furnished,2 BHK,Family,15-Nov-2022,-
+192,"1 BHK Independent House  for Lease  In Kamaraj Nagar West 5th Street, Thiruvanmiyur",5th main road kamaraj nagar,440 sqft,600000,-,No,Unfurnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+193,"2 BHK Apartment  In Ayya Flats & Builders, Velachery for Rent  In Velachery","Ayya Flats & Builders, Velachery  33, 100, Ayya Tower Feet Taramani Road, Velachery, Velachery, Chennai, Tamil Nadu 600042, India",735 sqft,60000,14000,1300,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+194,1 BHK for Rent  In Velachery,"Standalone Building, Venkateswara Nagar, 3rd Main RD, Near Hp Petrol Pump and Fish Market Bismillah SSS",450 sqft,50000,7500,500,Unfurnished,1 BHK,Family,24-Nov-2022,Velachery
+195,1 BHK Independent House  for Rent  In Velachery,"Independent House, 1st Ave Karunabigai Colony, near  Dhandeeswaram temple",650 sqft,40000,9000,No,Semi furnished,1 BHK,All,Ready to Move,Velachery
+196,"2 BHK Independent House  for Rent  In 4th Cross Street, Thiruvanmiyur","Independent House, teachers colony Near SEED Play School","1,200 sqft",100000,20000,No,Semi furnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+197,3 BHK Flat  In Orchid Akash  for Rent  In Velachery," Orchid Akash, 46A, Srinivasa Nagar Extension, Devi Karumariamman Nagar, Ram Nagar, Velachery, Chennai, Tamil Nadu 600042, India","1,285 sqft",80000,22000,500,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+198,1 BHK Flat  In Standalone Building  for Rent  In Thiruvanmiyur,"East Coast Rd,Near Reliance Trends ",720 sqft,40000,8000,No,Semi furnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+199,4 BHK Flat  In Standalone Buiding  for Rent  In Thiruvanmiyur," Valmiki Nagar, Thiruvalluvar Nagar, near rto thiruvanmiyur ","1,700 sqft",200000,40000,350,Semi furnished,4 BHK,Family,Ready to Move,Thiruvanmiyur
+200,1 BHK Independent House  for Rent  In Adambakkam,"Independent House, netaji colony 1st main road,Near Narumukhai Apartment",450 sqft,48000,10000,No,Unfurnished,1 BHK,Family,Ready to Move,-
+201,2 BHK Independent House  for Rent  In Kalakshetra Road,"Independent House, near Atrium Appt","1,000 sqft",200000,26000,2000,Semi furnished,2 BHK,All,Ready to Move,-
+202,1 BHK Independent House  for Rent  In Velachery,"Independent House, Taramani 100 Feet Road,  near Tata Consultancy Services -Velachery",450 sqft,20000,6000,300,Semi furnished,1 BHK,Bachelor,Ready to Move,Velachery
+203,1 RK Independent House  for Lease  In Velachery,"Independent House, TNHB Colony near Britto School",280 sqft,300000,-,No,Unfurnished,1 RK,Family,Ready to Move,Velachery
+204,1 RK Flat  for Rent  In Pallikaranai,"Standalone Building, Tambaram Main Rd, Near Reliance Trends",200 sqft,20000,4000,No,Unfurnished,1 RK,All,Ready to Move,-
+205,2 BHK Flat  for Rent  In Pallikaranai,"Standalone Building, Tambaram Main Rd, Near Reliance Trends","1,500 sqft",50000,12000,No,Semi furnished,2 BHK,Family,Ready to Move,-
+206,2 BHK Independent House  for Rent  In Velachery,"Independent House, LIC Colony near ICICI Bank Ltd. - Chennai - Velachery and near RP Pritiens",800 sqft,75000,18000,No,Unfurnished,2 BHK,All,10-Nov-2022,Velachery
+207,2 BHK Independent House  for Rent  In Puzhuthivakkam,"Independent House, awaharlal Nehru Rd Near Sunshine Chennai Senior Secondary School","1,300 sqft",80000,13500,No,Fully furnished,2 BHK,Family,15-Nov-2022,-
+208,1 BHK Independent House  for Rent  In Tharamani,"Independent House, Mahathma Gandhi Nagar, Near St.Antony's Church Tharamani",450 sqft,40000,8000,No,Unfurnished,1 BHK,Family,Ready to Move,Tharamani
+209,1 RK Independent House  for Lease  In Velachery,"Independent House, sri devikarumariamman nagar,velachery",140 sqft,200000,-,No,Unfurnished,1 RK,All,Ready to Move,Velachery
+210,"2 BHK Flat  In Standalone Building  for Lease  In Velachery, ", TNHB Main Rd near Annai Medicals,800 sqft,1200000,1000,1000,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+211,1 BHK Flat  In Lakshmi Ammal Illam for Rent  In Velachery,"Dhandeeswaram, Velachery",600 sqft,50000,10500,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+212,1 BHK Independent House  for Rent  In Velachery,"Independent House, Karunabigai Colony, Near Dhandeeswaram Temple",450 sqft,60000,8000,No,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+213,2 BHK Flat  In Oriental Foundation for Lease  In Velachery,venkateswara nagar near HP Petrol Pump Venkateshwara Agencies,620 sqft,600000,400,400,Semi furnished,2 BHK,All,Ready to Move,Velachery
+214,2 BHK Independent House  for Rent  In Velachery,"Independent House, AGS Colony 2nd Cross Near Navadisha Montessori Foundation",900 sqft,100000,16000,800,Unfurnished,2 BHK,All,Ready to Move,Velachery
+215,1 BHK Flat  In Standalone Building  for Rent  In Velachery,"Nethaji Rd,  TNHB Colony ,Near St. Britto?s Academy",500 sqft,40000,8200,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+216,Shared Room for Male In 1 BHK  In Thiruvanmiyur,"Independent House, OPP to 4th Sea Ward",700 sqft,5000,4000,No,Semi furnished,1 BHK,,Ready to Move,Thiruvanmiyur
+217,2 BHK Flat  In Arunachaleswar Arulagam for Rent  In Velachery,perungudi railway station,"1,000 sqft",100000,22000,1000,Semi furnished,2 BHK,All,Ready to Move,Velachery
+218,1 BHK Flat  In Sankar Flats for Rent  In Thiruvanmiyur,East Coast Road  near  TRENDS,360 sqft,40000,8000,No,Semi furnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+219,2 BHK Independent House  for Rent  In Krishna Towers,"Independent House, 50.Sardar patel road, ","1,120 sqft",180000,29000,2350,Semi furnished,2 BHK,Family,Ready to Move,-
+220,1 BHK Independent House  for Rent  In Velachery,"Independent House, 100 feet Rd, Velachery Rd Near ICICI Bank Ltd. - Chennai - Velachery",400 sqft,30000,6000,300,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+221,2 BHK Flat  In Ayya Terace for Rent  In Velachery,selvi street,500 sqft,50000,13000,500,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+222,2 BHK Flat  for Rent  In Thiruvanmiyur,"Standalone Building, Thiruvalluvar Nagar, near RTO Thiruvanmiyur",800 sqft,40000,14000,No,Semi furnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+223,2 BHK Independent House  for Rent  In Velachery,"Independent House, 2nd main road netaji colony, near CSI Christ The King Church",700 sqft,60000,12200,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+224,1 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Balakrishnan Rd near to Mangala Vinayagar Temple",450 sqft,30000,7000,No,Unfurnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+225,1 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Balakrishnan Rd near to Mangala Vinayagar Temple",450 sqft,30000,7000,No,Unfurnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+226,3 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, AIBEA Nagar","1,500 sqft",150000,32000,No,Unfurnished,3 BHK,Family,Ready to Move,Thiruvanmiyur
+227,1 BHK Flat  In Sea Breeze Flats for Rent  In Thiruvanmiyur,Fish Market Kuppam Beach Rd,520 sqft,75000,13000,600,Semi furnished,1 BHK,All,05-Nov-2022,Thiruvanmiyur
+228,1 RK Independent House  for Rent  In Thiruvalluvar Nagar,"Independent House, E6, 6th cross st, thiruvallur nagar",400 sqft,25000,7000,No,Semi furnished,1 RK,All,Ready to Move,-
+229,1 BHK Independent House  for Rent  In Thiruvanmiyur,Sri Vembuli Amman Kovil st,450 sqft,60000,8500,No,Unfurnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+230,3 BHK In Cds Shree Purna Enclave for Rent  In Velachery,"Tansi Nagar, Near St Antony's Higher Secondary School","1,500 sqft",100000,23000,1000,Semi furnished,3 BHK,Bachelor,Ready to Move,Velachery
+231,2 BHK Flat  In Standalone Building  for Rent  In Velachery,"Avvaiyar St, Nehru Nagar, near  Aalpha School",600 sqft,80000,10000,No,Unfurnished,2 BHK,All,10-Dec-2022,Velachery
+232,1 BHK Flat  In Subiksha Flats for Rent  In Thiruvanmiyur,"Subhiksha Apartment, 1, 1st W St, Ranganatha Puram, Thiruvanmiyur, Chennai, Tamil Nadu 600041",650 sqft,75000,13000,300,Semi furnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+233,1 BHK Flat  In Standalone Building  for Lease  In Velachery,"Avvaiyar St, Nehru Nagar, near  Aalpha School",600 sqft,450000,-,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+234,2 BHK Flat  for Rent  In Tharamani,"standalone building,  Kambar St, near Gayathri Tiffin Centre",600 sqft,50000,13000,1000,Unfurnished,2 BHK,Family,Ready to Move,Tharamani
+235,1 RK Independent House  for Rent  In Velachery,"Independent House, TNHB Main Rd, Periyar Nagar, Near- State Bank Of India",250 sqft,25000,5500,No,Semi furnished,1 RK,Bachelor,Ready to Move,Velachery
+236,2 BHK Flat  In Standalone Building  for Rent  In Thiruvanmiyur,"  Rajiv Gandhi IT Expy,Near Thiruvanmiyur Railway Station",850 sqft,100000,20000,700,Fully furnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+237,2 BHK Flat  In Sai Ayush Ramesha Velachery for Rent  In Velachery,"Devi Karumariamman Nagar Extension, Velachery, Chennai 600042, Tamil Nadu, INDIA.","1,008 sqft",50000,17000,1000,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+238,1 BHK Independent House  for Rent  In Velachery,"Independent House, near to vijaya nagar bus stand",750 sqft,100000,20000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+239,2 BHK Flat  In Sivabalan Apartment for Rent  In Thiruvanmiyur,sivagamipuram,"1,000 sqft",100000,27000,1000,Fully furnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+240,2 BHK Independent House  for Rent  In Velachery,"Independent House, Venus Colony 2nd Street Extenstion Near fashion Pub",900 sqft,50000,14500,No,Semi furnished,2 BHK,All,Ready to Move,Velachery
+241,"Shared Room for Female In 1 BHK  In Jains Abhinavan, Velachery In Murugu Nagar Extension",murugu nagar extension,600 sqft,25000,7500,1300,Fully furnished,1 BHK,,Ready to Move,Velachery
+242,2 BHK Flat  In Standalone Building  for Rent  In Velachery,"Radha Nagar  , near Sri Devi Naga Muthumaari Amman Temple ",900 sqft,100000,15000,500,Unfurnished,2 BHK,All,Ready to Move,Velachery
+243,2 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Jayaram street","1,100 sqft",125000,24000,No,Semi furnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+244,"3 BHK Apartment  In The Atrium, Thiruvanmiyur for Rent  In Thiruvanmiyur","The Atrium, Thiruvanmiyur  22, Kalakshetra Rd, Valluvar Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041, India","1,575 sqft",500000,50000,6400,Semi furnished,3 BHK,Family,15-Dec-2022,Thiruvanmiyur
+245,1 BHK Flat  for Rent  In Thiruvanmiyur,"Standalone Building, Thiruvidhi Amman Koil St Near Tamilnadu Horticulture Office",450 sqft,50000,7500,No,Unfurnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+246,2 BHK Independent House  for Lease  In Thiruvanmiyur,"Independent House, Bharathi Nagar, Near MONORA BISTRO ",450 sqft,500000,100,100,Unfurnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+247,1 BHK Independent House  In Sagunthala Illam for Rent  In Velachery,"Gangai Amman Koil St, Near Sangeetha Veg Restaurant",600 sqft,40000,8500,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+248,"Shared Room for Male In 3 BHK  In Waves Apartments, Thiruvanmiyur In Thiruvanmiyur","Waves Apartments, Thiruvanmiyur  1st Seaward Road, Valmiki Nagar, Thiruvanmiyur, Chennai - 600041, Tamil Nadu, INDIA.","1,980 sqft",29000,9000,No,Semi furnished,3 BHK,,Ready to Move,Thiruvanmiyur
+249,1 BHK Independent House  for Rent  In Velachery,"Independent House, Kanngi street",400 sqft,600000,6000,500,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+250,"1 RK Flat  In S  for Rent  In 11th Street, Velachery",no 22 mgr nagar 11th street ,350 sqft,10000,6000,200,Semi furnished,1 RK,All,Ready to Move,Velachery
+251,2 BHK Flat  In Acs Villa for Rent  In Velachery,"Velachery Bypass Rd, Venkateswara Nagar,  near  Hp Petrol Pump Venkateshwara Agencies",750 sqft,60000,15000,600,Semi furnished,2 BHK,Family,15-Nov-2022,Velachery
+252,3 BHK Flat  In Rama Chandran Banumathi Illam  for Rent  In Distyle Infra,"Bharathi nagar , 3 rd cross street","1,100 sqft",150000,35000,1500,Semi furnished,3 BHK,All,Ready to Move,-
+253,2 BHK Flat  In Motherland for Rent  In Thiruvanmiyur,Canal Road,850 sqft,55000,17500,500,Semi furnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+254,2 BHK Flat  In Jaisun Apartment for Rent  In Velachery,Near Lakshmi vidyalaya school,"1,024 sqft",90000,18000,500,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+255,"2 BHK Flat  In Signet Breeze Apartment, Thiruvanmiyur for Rent  In Thiruvanmiyur","Near Jayanthi Theatre, LB Road,  Thiruvanmiyur, Chennai, Tamil Nadu, INDIA ",994 sqft,100000,22000,1000,Semi furnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+256,1 BHK for Rent  In Thiruvanmiyur,"standalone building, Pillyar kovil street Near Thiruvanmiyur Bus Depot,Thiruvanmiyur Vegetable Market",500 sqft,40000,7000,No,Unfurnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+257,1 BHK Independent House  for Rent  In Velachery,"Independent House, Near velachery 100 feet road",500 sqft,30000,7000,250,Unfurnished,1 BHK,Bachelor,Ready to Move,Velachery
+258,2 BHK Independent House  for Rent  In Velachery,"4th cross street, MGR Nagar",950 sqft,70000,13500,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+259,2 BHK Flat  In Apartment for Rent  In Velachery,"100 Feet Road Velachery - Tambaram Main Rd, near GRTJewellers",900 sqft,45000,15000,No,Unfurnished,2 BHK,All,Ready to Move,Velachery
+260,"3 BHK Independent House  for Rent  In Velachery Mrts Station, Railway Station Road, Subramaniam Colony, Chennai, Tamil Nadu, India","Independent House, Subramaniam Colony","1,500 sqft",150000,25000,No,Unfurnished,3 BHK,All,Ready to Move,Velachery
+261,1 BHK Independent House  for Rent  In Velachery,"Independent House, TNHB Main Rd ,Near Muthu Mariyamman Temple",430 sqft,60000,8500,No,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+262,"1 BHK Flat  In - for Rent  In Velachery, Chennai, Tamil Nadu, India",nehru nagar,650 sqft,40000,8500,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+263,2 BHK Flat  In Doshi Symphony Apartments for Rent  In Velachery,"B Block Velachery  Main Road, near kaiveli Bus stop next to Silicon towers","1,150 sqft",96000,16000,3000,Semi furnished,2 BHK,All,Ready to Move,Velachery
+264,1 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, 8th Main Road near Sri Sidhi Vinayagar Temple",500 sqft,50000,9000,No,Semi furnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+265,"2 BHK Flat  In Jothi Flat, Velachery for Rent  In Golden Avenue 1st Street","19 Golden Avenue, vijayanagar, Velachery , Chennai 600 042",600 sqft,50000,11000,500,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+266,1 BHK Independent House  for Rent  In Velachery,"Independent House, Rajalakshmi nagar 100 Feet Rd,  Near RLP Hardwares",350 sqft,50000,9000,300,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+267,"3 BHK Flat  In Real Value Sai Brindavan Flats, Adambakkam for Rent  In Sai Brindavan Apartment",Near Sri Devi Nagamuthu mariamman temple,"1,248 sqft",200000,24000,2318,Semi furnished,3 BHK,All,Ready to Move,-
+268,1 BHK Flat  In Sri Ram Nagar for Rent  In Ramco Systems,"No. 1, Sri ram nagar, 4th street, taramani, chennai -600113",750 sqft,20000,10500,500,Unfurnished,1 BHK,All,Ready to Move,-
+269,4 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, 1st Ave Rd, Near RTO Thiruvanmiyur","2,000 sqft",280000,48000,No,Semi furnished,4 BHK,All,Ready to Move,Thiruvanmiyur
+270,1 BHK Independent House  for Lease  In Tharamani,"Independent House, anna Street sanadhi street , near backside Arvind Matric High School",500 sqft,600000,-,No,Unfurnished,1 BHK,Family,Ready to Move,Tharamani
+271,"2 BHK Flat  In Dev Apartments, Velachery for Rent  In Velachery","32A,100Ft Tharamani Link Road, Tansi Ngr",960 sqft,150000,22000,1800,Fully furnished,2 BHK,All,Ready to Move,Velachery
+272,1 BHK Independent House  for Rent  In Velachery,"Independent House, Lakshmi Nagar, near Subramania Swamy Temple",850 sqft,20000,7500,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+273,1 RK Flat  for Rent  In Taramani,"Undisclosed, kalainger nagar 3 rd street Near srinivas mini hall",250 sqft,30000,6500,700,Fully furnished,1 RK,Family,Ready to Move,-
+274,1 RK Independent House  for Rent  In Velachery,"Independent House, TNHB Colony, Near Sri Thulasi Bakery",350 sqft,25000,5500,No,Semi furnished,1 RK,All,Ready to Move,Velachery
+275,2 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery - Tambaram Main Rd Near Grand Square ",750 sqft,60000,12000,No,Unfurnished,2 BHK,Bachelor,Ready to Move,Velachery
+276,2 BHK Flat  for Rent  In Velachery,"Standalone Building, Yamuna Street near Lakshmi Vidyalaya School",818 sqft,100000,15000,400,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+277,2 BHK Flat  In Ashok Manor for Rent  In Ruby Manor Apartments,"near violet matriculation school and vivekananda vidhyalaya, chitlapakkam",800 sqft,75000,10500,No,Unfurnished,2 BHK,Family,Ready to Move,-
+278,1 BHK Flat  for Rent  In Velachery,"standalone building, Velachery Main Rd Indira Gandhi Nagar,near Phoenix Market City",500 sqft,30000,8500,No,Semi furnished,1 BHK,All,Ready to Move,Velachery
+279,"2 BHK Flat  In Sai Guru Flats, Velachery, Chennai for Rent  In Velachery",100 Feet Rd near GRTJewellers,760 sqft,100000,15000,100,Semi furnished,2 BHK,All,Ready to Move,Velachery
+280,1 BHK Independent House  for Rent  In Velacherry,"Independent House, Lakshmi Puram, 3rd cross street  Near Throwpathy Amman Koil Street Near Ramani Apartments",400 sqft,25000,9000,No,Semi furnished,1 BHK,Family,Ready to Move,-
+281,1 RK Flat  for Rent  In Thiruvanmiyur,"standalone building, Vasudeva Nagar, opp to Thiruvanmiyur Post Office",500 sqft,50000,12000,No,Unfurnished,1 RK,All,Ready to Move,Thiruvanmiyur
+282,2 BHK Flat  In Sena Flats for Rent  In Velachery,"Sri Balaji Hardware Stores, 100 Feet Road, Rajalakshmi Nagar, Velachery, Chennai, Tamil Nadu, India",900 sqft,100000,16000,1000,Unfurnished,2 BHK,All,Ready to Move,Velachery
+283,1 BHK Independent House  for Rent  In 6th Cross Street,"Independent House, Next to lemon juice shop",720 sqft,40000,8000,500,Unfurnished,1 BHK,Family,Ready to Move,-
+284,2 BHK Flat  In Sankalpa Apartment for Rent  In Thiruvanmiyur,"New No.10 Jayaram St, Tirumudivakkam, Thiruvanmiyur Chennai, Tamil Nadu 600041 India",780 sqft,96000,25000,1600,Fully furnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+285,3 BHK Flat  In Ajp Castle for Rent  In Velachery,Sarathy Nagar Near  Bethel Matriculation Higher Secondary School,"1,400 sqft",200000,28000,2000,Unfurnished,3 BHK,Family,Ready to Move,Velachery
+286,1 BHK Flat  for Rent  In Velachery,"standalone building, Velachery - Tambaram Main Rd, Near GRTJewellers",400 sqft,50000,8000,500,Unfurnished,1 BHK,All,Ready to Move,Velachery
+287,1 BHK Flat  In Sai Andal for Rent  In Ambika Street,David school,550 sqft,40000,9000,No,Unfurnished,1 BHK,Family,Ready to Move,-
+288,"2 BHK Apartment  In Velachery Apartment, Velachery for Rent  In Velachery","Velachery Apartment, Velachery  chokalinga nagar, AGS colony, velachery",900 sqft,50000,15000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+289,2 BHK Independent House  for Rent  In Velachery,"Independent House, Throwpathy Amman Koil St near to  Government Higher Secondary School",800 sqft,50000,12500,No,Unfurnished,2 BHK,All,Ready to Move,Velachery
+290,2 BHK Independent House  for Rent  In Velachery,mosque,800 sqft,50000,12500,500,Unfurnished,2 BHK,All,Ready to Move,Velachery
+291,2 BHK Independent House  for Rent  In Jayaram Nagar,"Independent House, Jayaram street ","1,200 sqft",145000,24000,No,Semi furnished,2 BHK,Family,Ready to Move,-
+292,3 BHK Independent House  for Rent  In Velachery,"Independent House, Bharathi Nagar Near taramani TCS","2,500 sqft",100000,23000,No,Semi furnished,3 BHK,All,Ready to Move,Velachery
+293,1 RK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Rd near to GRT Jewellers",200 sqft,10000,5000,No,Unfurnished,1 RK,Bachelor,Ready to Move,Velachery
+294,2 BHK Flat  In Sangeeth Apartment for Rent  In Velachery,"137, Velachery,Near Check Post. off Velachery Main Road, Velachery, Chennai South, Chennai - 600032, Tamil Nadu, INDIA",732 sqft,140000,24000,1000,Fully furnished,2 BHK,Bachelor,Ready to Move,Velachery
+295,2 BHK Independent House  for Rent  In Tharamani,"Independent House,  Dr Radha Krishnan St, Anna Nagar,near   Sri Srinivasa Mini Hall ",650 sqft,50000,15000,No,Unfurnished,2 BHK,All,Ready to Move,Tharamani
+296,1 BHK Flat  In Sai Anu Prema for Rent  In Velachery,"Park Avenue 3rd Street, near St. Paul's Mar Thoma Church",450 sqft,90000,9000,1000,Semi furnished,1 BHK,All,Ready to Move,Velachery
+297,2 BHK Flat  In Signet Breeze Apartment for Rent  In Thiruvanmiyur,"Ambedkar Nagar, Lalitha Nagar,  near Arulmigu Marundheeshvarar Temple","1,100 sqft",100000,17000,1000,Unfurnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+298,1 BHK Independent House  for Rent  In Tharamani,"Independent House, Jawaharlal Nehru Road,  Near HEMA MAHAL",325 sqft,20000,9000,No,Unfurnished,1 BHK,Bachelor,Ready to Move,Tharamani
+299,2 BHK Apartment  In Dev Apartments for Rent  In Velachery,"Dev Apartments  3rd Street, Balamurugan Nagar Velachery, Chennai, Tamil Nadu, INDIA. ",900 sqft,108000,18000,2000,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+300,2 BHK Apartment  In Dev Apartments for Rent  In Velachery,"Dev Apartments  3rd Street, Balamurugan Nagar Velachery, Chennai, Tamil Nadu, INDIA. ",900 sqft,108000,18000,2000,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+301,1 RK In Jyostna Apartments  Velachery  for Rent  In Jyostna,Padmavathi Nagar second street Velachery,400 sqft,30000,10000,500,Semi furnished,1 RK,Bachelor,Ready to Move,Velachery
+302,3 BHK Flat  In Kumaars Aashirwad for Rent  In Velachery,1st Main Road Baby Nagar Near Anugraha A/C Marriage Hall,"1,450 sqft",100000,32000,500,Fully furnished,3 BHK,All,Ready to Move,Velachery
+303,4 BHK Flat  In Guru Kurpa for Rent  In Kottivakkam,"2nd main road , AGS Colony, near Sri Baktha Anjaneya temple","3,400 sqft",300000,50000,1000,Semi furnished,4 BHK,All,Ready to Move,-
+304,3 BHK Flat  In Rams  for Rent  In Velachery,Ram Nagar Near Vilayatu Vinayagar Temple,"1,540 sqft",340000,34000,2500,Fully furnished,3 BHK,Family,Ready to Move,Velachery
+305,2 BHK Flat  In Dev Apartment for Rent  In Velachery,"32, 100feet Tharamani Link Road, Velachery",870 sqft,120000,20000,1500,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+306,"2 BHK Flat  In Vinayaka Apartments, Velachery for Rent  In Velachery","8, Gandhi Road, Seva Nagar, Velachery, Chennai, Tamil Nadu 600042",750 sqft,70000,14000,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+307,2 BHK In Latif Manzil for Rent  In Thiruvanmiyur,"Valmiki Nagar, Near Thiruvanmiyur RTO Office,","1,300 sqft",135000,27000,750,Semi furnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+308,3 BHK In Ceedeeyes Shreepurna for Rent  In Velachery,"4th Mn Rd, Anna Nagar Extn, Velachery","1,500 sqft",150000,22000,2000,Semi furnished,3 BHK,All,Ready to Move,Velachery
+309,3 BHK Apartment  In Dev Apartments for Rent  In Velachery,"Dev Apartments  Gandhi Salai, near Thiruveedhi Amman Temple","1,250 sqft",250000,31000,1500,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+310,2 BHK Flat  In Apartment for Rent  In Velachery,"137, 100 Feet Rd, Velachery, Chennai, Tamil Nadu 600042",800 sqft,65000,13500,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+311,2 BHK Independent House  for Rent  In Tharamani,"Independent House,  Anna Nagar, near XAVIER STORES","1,100 sqft",80000,22000,No,Fully furnished,2 BHK,All,Ready to Move,Tharamani
+312,1 BHK Independent House  for Rent  In Velachery,"Independent House, Gangai Nagar, Near Sri Murugan Marriage Hall A/C",800 sqft,50000,12000,500,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+313,1 RK Independent House  for Rent  In Velachery,"Independent House, Velachery - Tambaram Main Road, Near  GRT Jewellers ",120 sqft,20000,4500,No,Unfurnished,1 RK,Bachelor,Ready to Move,Velachery
+314,3 BHK Flat  In No Name for Rent  In Velachery,Bharathi street Near Andhi kadai hotel,"1,000 sqft",125000,20000,1000,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+315,2 BHK Flat  In Dev for Rent  In Velachery,"5th cross street ,sarathynagar",720 sqft,100000,16000,700,Unfurnished,2 BHK,All,Ready to Move,Velachery
+316,1 RK Independent House  for Rent  In Velachery,"Independent House, Periyar Nagar,kamarajapuram   gangai amman kovil street, Near   Sree Gupta Bhavan",100 sqft,35000,8500,No,Unfurnished,1 RK,All,Ready to Move,Velachery
+317,2 BHK In Kalaivani Home for Rent  In Velachery,MGR Nagar 7th main Road Near Damro Furniture,950 sqft,78000,13000,500,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+318,3 BHK Independent House  for Rent  In Vel Nagar,"Independent House, EB colony First St, Radha Nagar, Velachery near Sri Devi Nagamuthu Mariamman Sarvamangala Sri Saneeswara Bhaghavan","1,100 sqft",120000,20000,No,Semi furnished,3 BHK,Family,Ready to Move,-
+319,1 BHK Independent House  for Rent  In  Velachery,"Independent House, Ambedkar Nagar, near Muthu Mariyamman Temple",550 sqft,40000,8000,No,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+320,"3 BHK Apartment  In The Atrium, Thiruvanmiyur for Rent  In Thiruvanmiyur","The Atrium, Thiruvanmiyur  22, Kalakshetra Rd, Valluvar Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041, India","1,642 sqft",300000,55000,6600,Semi furnished,3 BHK,Family,Ready to Move,Thiruvanmiyur
+321,1 BHK Flat  for Rent  In Velachery,"standalone building, Velachery Rd,Near Phoenix Market City",500 sqft,40000,10000,1000,Semi furnished,1 BHK,All,Ready to Move,Velachery
+322,2 BHK Independent House  for Rent  In Velachery,"Independent House,  Nethaji Rd, Opposite Cart Track Road, near   St. Britto?s Academy ",500 sqft,50000,12000,No,Semi furnished,2 BHK,All,Ready to Move,Velachery
+323,2 BHK Independent House  for Rent  In Velachery,"Independent House, EB Colony Main Rd near Sri Devi Nagamuthu Mariamman Sarvamangala Sri Saneeswara Bhaghavan temple","1,300 sqft",75000,22000,500,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+324,3 BHK Flat  In Standalone Building  for Rent  In Thiruvanmiyur,"LB road,Near Thiruvanmiyur Post Office ","2,500 sqft",450000,75000,No,Semi furnished,3 BHK,All,Ready to Move,Thiruvanmiyur
+325,1 RK Independent House  for Rent  In Tharamani,jansi rani street,190 sqft,15000,4000,No,Unfurnished,1 RK,All,Ready to Move,Tharamani
+326,1 BHK Independent House  for Rent  In 7th Main Road 2nd Extention,"no:38/15 ags colony 7th street, near ks hospital",350 sqft,50000,7500,500,Unfurnished,1 BHK,Family,Ready to Move,-
+327,3 BHK Flat  In Sai Sukrta Apartments for Rent  In Velachery,"5-6, 3rd St, Balamurugan Nagar, VGP Selva Nagar, Velachery Balamurugan, Nagar, VGP Selva Nagar, Chennai, Tamil Nadu 600042, India","1,345 sqft",144000,24000,2500,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+328,2 BHK Independent House  for Rent  In Velachery Fire Station,"Independent House, Velachery Bus Stand- Tansi Nagar","1,200 sqft",100000,18000,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+329,2 BHK Flat  In Ganesh Flats for Rent  In Velachery,100 Feet Rd Near GRTJewellers,"1,060 sqft",120000,19000,500,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+330,1 BHK Flat  In Sena Flats for Rent  In Velachery Bypass Road,opposite to Murugan kalayanam mandabappam,459 sqft,60000,9000,No,Semi furnished,1 BHK,All,Ready to Move,Velachery
+331,1 BHK Flat  for Rent  In Thiruvanmiyur,"standalone building, East Coast Road near Reliance Trends",600 sqft,50000,9000,500,Unfurnished,1 BHK,Bachelor,Ready to Move,Thiruvanmiyur
+332,2 BHK Independent House  for Rent  In Avvai Nagar,"Independent House, Ganapathy 1st Street, near Bliss Hostel",900 sqft,90000,18000,500,Semi furnished,2 BHK,Family,Ready to Move,-
+333,3 BHK Flat  In Badhri's Anugraha for Rent  In Badhri's Anugraha,baphri's anugraha,"1,300 sqft",88000,22000,2500,Semi furnished,3 BHK,Family,15-Nov-2022,-
+334,1 BHK Independent House  for Rent  In Velachery,"Independent House, Gangai Nagar, Near Sri Murugan Marriage Hall A/C",550 sqft,30000,7500,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+335,2 BHK Flat  In Alonkar Aiswarya Apartments for Rent  In Vijaya Nagar,vijayanagar 2nd main road,"1,200 sqft",75000,25000,No,Semi furnished,2 BHK,All,Ready to Move,-
+336,2 BHK Independent House  for Rent  In Velachery,"Independent House,  Radha Nagar, Near Sri Devi Nagamuthu Mariamman Sarvamangala Sri Saneeswara Bhaghavan temple",750 sqft,50000,12000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+337,1 BHK Flat  for Rent  In Velachery,"Standalone building, half km to GRTJewellers Murugan Mandapam",625 sqft,60000,10000,750,Unfurnished,1 BHK,All,Ready to Move,Velachery
+338,2 BHK Flat  In Doshi Symphony Apartments for Rent  In Velachery,"Block A Velachery  Main Road, near kaiveli Bus stop next to Silicon towers","1,150 sqft",100000,17000,2500,Semi furnished,2 BHK,All,Ready to Move,Velachery
+339,2 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Bye Pass Road Near Sri Murugan Thirumana Mandapam",800 sqft,50000,13000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+340,2 BHK Flat  In Arunachaleswarar Arulagam for Rent  In Velachery,"Anna Nagar Extension, Near Sr0i Gnanasithi Vinayagar Temple","1,000 sqft",100000,22000,1000,Semi furnished,2 BHK,All,Ready to Move,Velachery
+341,2 BHK Independent House  for Rent  In Tnhb Colony,"Independent House, Housing board park",700 sqft,120000,14000,No,Unfurnished,2 BHK,Family,Ready to Move,-
+342,2 BHK Independent House  for Rent  In Velachery,"Independent House, TNHB Colony Near Britto School",650 sqft,50000,13000,700,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+343,3 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Rd , near Phoenix Marketcity","1,000 sqft",200000,22000,No,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+344,2 BHK Flat  In Apartment  for Rent  In Velachery,Sarathy Nagar Near pind restaurant / DAV school,"1,150 sqft",90000,18500,No,Semi furnished,2 BHK,All,Ready to Move,Velachery
+345,1 BHK Independent House  for Rent  In Velachery,"Independent House, MGR Nagar, ,Near Vinayagar Temple",300 sqft,20000,8000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+346,2 BHK Independent House  for Rent  In Thiruvanmiyur R.t.o.,"Independent House, AIBEA Nagar 2nd Main Road","1,300 sqft",150000,27000,750,Semi furnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+347,2 BHK Flat  In Sena Buildrs for Rent  In Thiruvanmiyur,Valmiki nagar,"1,100 sqft",100000,24000,600,Semi furnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+348,3 BHK Apartment  In Acchyuthan Lotus Manor for Rent  In Thiruvanmiyur,"Acchyuthan Lotus Manor  H-Block, South Avenue, Kamaraj Nagar, Thiruvanmiyur, Chennai 600041, Tamil Nadu, INDIA.","1,585 sqft",200000,40000,5000,Semi furnished,3 BHK,Family,Ready to Move,Thiruvanmiyur
+349,1 BHK Apartment  In Sarah Villa for Rent  In Thiruvanmiyur,Sarah Villa  Valmiki street near Thiruvanmiyur bust depo,500 sqft,50000,10700,No,Semi furnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+350,2 BHK Independent House  for Lease  In Velachery,"Independent House, Velachery Rd, Indira Gandhi Nagar,  Near Phoenix Market City, Elangoean.","1,000 sqft",700000,-,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+351,1 BHK Independent House  for Rent  In Tharamani,"Independent House, 100 Feet Road, Near Jumma Masjid",500 sqft,30000,7500,No,Unfurnished,1 BHK,All,Ready to Move,Tharamani
+352,1 BHK Flat  for Rent  In Thiruvanmiyur,"standalone building, CGE Housing Colony, Near Fish Market, Thiruvanmiyur and Thiruvanmiyur bus stand",400 sqft,30000,6000,No,Unfurnished,1 BHK,Bachelor,Ready to Move,Thiruvanmiyur
+353,1 BHK Independent House  for Rent  In Tharamani,"Independent House, Bhuddar street, Jawaharlal Nehru Rd, Thanthai Periyar Nagar, Near HEMA MAHAL",500 sqft,30000,8500,No,Unfurnished,1 BHK,All,Ready to Move,Tharamani
+354,3 BHK Flat  In Vijay Bhagyam Court for Rent  In Velachery,"Velachery Rd,  near Velachery Police Station","1,400 sqft",200000,40000,2500,Fully furnished,3 BHK,All,Ready to Move,Velachery
+355,2 BHK Independent House  for Rent  In Velacherry,"Independent House, Throwpathy Amman Koil 4th Street near Velachery Arima Sangam, Eye and General Hospita",700 sqft,100000,12500,No,Semi furnished,2 BHK,All,30-Nov-2022,-
+356,2 BHK Flat  In Apartment  for Rent  In Velachery," Natesan Nagar, Sri Sakthi Vijayalakshmi Nagar near Sri Malola Narasimha Swamy Temple",700 sqft,60000,14000,500,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+357,3 BHK Flat  for Rent  In Velachery,"standalone building,  Taramani Link Rd,  near BloomLife Hospital","1,500 sqft",150000,24000,No,Unfurnished,3 BHK,Family,Ready to Move,Velachery
+358,1 RK Independent House  for Rent  In Tharamani,"Independent House, Pillaiyar Koil St, Near Sri Varasiddhi Vinayagar Temple and Karguvel Ayyanar Stores",400 sqft,20000,6000,500,Unfurnished,1 RK,Family,Ready to Move,Tharamani
+359,1 BHK Independent House  for Rent  In Velachery,3rd Main road Venkateshwara nagar,500 sqft,20000,7500,500,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+360,1 RK Flat  In Standlone Building for Rent  In Thiruvanmiyur ,"Kannappa Nagar,  near RTO Thiruvanmiyur",425 sqft,50000,8500,No,Semi furnished,1 RK,All,Ready to Move,Thiruvanmiyur
+361,2 BHK Independent House  for Lease  In Thiruninravur,"Independent House, kannapa nagar Near RTO Thiruvanmiyur",950 sqft,1100000,-,No,Semi furnished,2 BHK,All,Ready to Move,-
+362,3 BHK Flat  In Shree Priya Lakshmi for Rent  In Velachery,Anna Nagar Extension Near St Antony's Higher Secondary School,"1,200 sqft",200000,23000,500,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+363,2 BHK Independent House  for Rent  In Srinivasapuram,"Independent House, Near ICICI Bank","1,300 sqft",100000,40000,No,Semi furnished,2 BHK,All,Ready to Move,-
+364,2 BHK Independent House  for Rent  In Velachery,"Independent House, Urban Primary Health Center, Greater Chennai Corporation(Zone-13, Division-179) 2, Gandhi Road Soni Nagar, Vellakal, Seva Nagar, ","1,000 sqft",200000,20000,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+365,2 BHK Flat  In Appu Colonyy for Rent  In Thiruvanmiyur,Opp to v3 hundai showroom and near signa,"1,000 sqft",50000,20000,No,Unfurnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+366,1 BHK Independent House  for Rent  In Velachery,"tnhb coloby 14 th lane,near brittos school",480 sqft,30000,7000,No,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+367,3 BHK Apartment  In Vijay Bhaggyam Residency for Rent  In Velachery,"Vijay Bhaggyam Residency  Dhandeeswaram, Velachery, Chennai, Tamil Nadu, INDIA. ","1,648 sqft",400000,48000,2500,Fully furnished,3 BHK,All,Ready to Move,Velachery
+368,1 BHK Independent House  for Rent  In Velachery,"Independent House,  Velachery Road  near Phoenix Marketcity",500 sqft,40000,8000,150,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+369,1 RK Independent House  for Rent  In Velachery,"Independent House,  mgr nagar  Near, Devi Karumariamman   temple ",136 sqft,20000,4000,No,Unfurnished,1 RK,Family,Ready to Move,Velachery
+370,1 RK Independent House  for Rent  In Velachery,"Independent House, Velachery Main Road Near Sri Krishna Sweets and Bakery",400 sqft,30000,8000,500,Semi furnished,1 RK,Bachelor,Ready to Move,Velachery
+371,3 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Valmiki Nagar Near RTO Thiruvanmiyur","1,300 sqft",210000,35000,No,Semi furnished,3 BHK,Family,Ready to Move,Thiruvanmiyur
+372,1 RK Independent House  for Rent  In Velachery,"Independent House, Velachery West,  First St, Nehru Nagar, Near  ECI Ebenezer church ",150 sqft,10000,3000,No,Unfurnished,1 RK,Bachelor,Ready to Move,Velachery
+373,1 RK Flat  In Standalone Building  for Rent  In Velachery,100 Feet Rd near GRTJewellers ,250 sqft,20000,4000,No,Semi furnished,1 RK,All,20-Nov-2022,Velachery
+374,2 BHK Flat  In Mythili Flats Velachery for Rent  In Velachery," MGR Nagar, Near Lakshmi Vidyalaya School",600 sqft,30000,11000,No,Unfurnished,2 BHK,All,15-Nov-2022,Velachery
+375,2 BHK Independent House  for Rent  In Velachery,"Independent House, 150 Feet Rd, Velachery Bypass Rd Near Geetham Veg Restaurant","1,200 sqft",100000,15000,No,Unfurnished,2 BHK,All,Ready to Move,Velachery
+376,1 BHK Independent House  for Rent  In Tharamani,"Independent House, Tharamani 100 Feat Road Near HEMA MAHAL",425 sqft,75000,10000,No,Semi furnished,1 BHK,All,Ready to Move,Tharamani
+377,1 BHK Independent House  for Rent  In Tharamani,"Independent House, Jawaharlal Nehru Rd Near Nammaa Kitchen and SHRI BALAJI MEDICALS",400 sqft,120000,20000,No,Unfurnished,1 BHK,Family,Ready to Move,Tharamani
+378,3 BHK Flat  In Mars Foundation for Rent  In Velachery,Devi karumariamman nagar extn,"3,000 sqft",160000,27000,No,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+379,3 BHK Flat  In Deepam Apartments for Rent  In Velachery,"5th cross street,venkateswara nagar","1,200 sqft",100000,22000,No,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+380,1 RK Independent House  for Rent  In Tnhb Colony,"Independent House, 6th street",350 sqft,30000,5800,No,Unfurnished,1 RK,Bachelor,Ready to Move,-
+381,1 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Main Rd near Velachery Police Station",480 sqft,50000,8500,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+382,1 BHK Independent House  for Rent  In Madipakkam ,"Independent House, Mullai St near Sunshine Chennai Senior Secondary School",400 sqft,24000,8000,500,Semi furnished,1 BHK,All,Ready to Move,-
+383,1 BHK Flat  In Individual Apartment for Rent  In Velachery,"gangai nagar, velachery",350 sqft,50000,10000,500,Semi furnished,1 BHK,All,Ready to Move,Velachery
+384,"2 BHK Flat  In Shivkala Apartment, Velachery  for Rent  In 1st Main Road",Near Aarti Scans,750 sqft,75000,15000,1200,Semi furnished,2 BHK,All,Ready to Move,Velachery
+385,"1 BHK Independent House  for Rent  In Velachery,","Independent House, MGR Nagar, near Lakshmi Vidyalaya School",400 sqft,30000,7000,No,Semi furnished,1 BHK,All,Ready to Move,Velachery
+386,"2 BHK In Pankaj Enclave, Velachery. for Rent  In Velachery",Ramnagar Extension,"1,065 sqft",100000,20000,1000,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+387,2 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Dr.Vaidekhi street,Kottivakkam ,Sri Narayana silks","1,100 sqft",100000,16000,500,Unfurnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+388,4 BHK Flat  In Shri Krishna for Rent  In Thiruvanmiyur," Valmiki Nagar, near RTO Thiruvanmiyur","2,200 sqft",330000,55000,2500,Semi furnished,4 BHK,All,Ready to Move,Thiruvanmiyur
+389,"1 RK Independent House  for Rent  In Rani Street, Velachery","Independent House, rani street ,sethapathy nager ,velachery",350 sqft,60000,10000,No,Unfurnished,1 RK,Bachelor,Ready to Move,Velachery
+390,1 BHK Independent House  for Rent  In Velachery,"Independent House, TNHB COLONY Near Phoenix Marketcity",600 sqft,50000,10000,500,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+391,2 BHK for Rent  In Velachery,"Standalone building, Velachery Near Phoenix Marketcity","1,000 sqft",100000,18000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+392,1 RK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Kuppam Beach Rd,near Advent Christian Church - Thiruvanmiyur kuppam",250 sqft,25000,6500,300,Unfurnished,1 RK,Bachelor,Ready to Move,Thiruvanmiyur
+393,1 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery - Tambaram Main Rd, Near The Chennai Silks",400 sqft,24000,8000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+394,2 BHK Flat  In Kalaivani Home for Rent  In 7th Main Road,"NO.40, 7th main road, MGR Nagar , near kolambu kadai ",620 sqft,78000,13000,500,Semi furnished,2 BHK,Family,Ready to Move,-
+395,"2 BHK Independent House  for Rent  In 100 Feet Road, Tharamani",bus stand back side,"1,600 sqft",500000,30000,No,Unfurnished,2 BHK,All,Ready to Move,Tharamani
+396,1 BHK Independent House  for Lease  In Lakshmipuram,"Independent House, 2 street",320 sqft,500000,500,500,Unfurnished,1 BHK,All,Ready to Move,-
+397,"1 BHK Independent House  for Rent  In Kanagam Road, Tharamani","Independent House, no.66 periyar nagar. kanagam Road.taramani",500 sqft,25000,8000,No,Unfurnished,1 BHK,Family,Ready to Move,Tharamani
+398,1 RK Independent House  for Rent  In Velachery,"Independent House, Velachery Rd Near Phoenix Marketcity",115 sqft,15000,4500,No,Unfurnished,1 RK,Family,Ready to Move,Velachery
+399,1 BHK Independent House  for Rent  In Velachery Bus Stand,"Independent House, Pillaiyar Koil St Near Gangai Amman Koil",400 sqft,30000,5500,500,Fully furnished,1 BHK,All,Ready to Move,Velachery
+400,2 BHK Flat  In Bay View Apartments for Rent  In Thiruvanmiyur,Kalakshetra near  Besant Arundale Senior Secondary School,850 sqft,60000,20000,1100,Semi furnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+401,2 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Bypass Rd Near BPCL: Velachery","1,200 sqft",100000,17000,1000,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+402,1 BHK Independent House  for Lease  In Sarathy Nagar,"Independent House, NEAR BETHEL SCHOOL",700 sqft,850000,500,500,Unfurnished,1 BHK,All,Ready to Move,-
+403,1 BHK Independent House  for Rent  In Velachery,"Independent House, Orandiamman Koil Street, near Sub Registrar Office",750 sqft,50000,12000,300,Unfurnished,1 BHK,All,Ready to Move,Velachery
+404,1 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, E-57, 3rd cr st thiruvalluvar nagar",700 sqft,50000,10500,No,Unfurnished,1 BHK,Family,Ready to Move,Thiruvanmiyur
+405,2 BHK Flat  In Vishnu Kadambari for Rent  In Valmiki Nagar,Rajagopalan Street near  Singapore Shoppee,"1,200 sqft",150000,25000,1000,Semi furnished,2 BHK,Family,Ready to Move,-
+406,1 RK Independent House  for Rent  In Thiruvanmiyur,"Independent House, LB Road, near Olympia Jayanthi Residences",300 sqft,27000,7500,No,Unfurnished,1 RK,Family,Ready to Move,Thiruvanmiyur
+407,1 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Bye Pass Road Near Sri Murugan Thirumana Mandapam",400 sqft,50000,9000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+408,1 BHK Independent House  for Rent  In Velachery,"Independent House, Madhavan St. Nehru Nagar  near Muthu Maari Amman Tirukovil",550 sqft,30000,8000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+409,2 BHK Independent House  for Rent  In Tharamani,"Independent House, Inner Ring Rd, Near  IRT-Institute of Road Transport,",600 sqft,40000,10000,500,Semi furnished,2 BHK,All,Ready to Move,Tharamani
+410,2 BHK Flat  In Standalone Building   for Rent  In Thiruvanmiyur," Valmiki St, Kamaraj Nagar, near  Manappuram Gold Loan",600 sqft,200000,22000,500,Unfurnished,2 BHK,Company,Ready to Move,Thiruvanmiyur
+411,1 BHK Flat  In Standalone Building  for Lease  In Thiruvanmiyur,Thiruvalluvar Nagar Near RTO Thiruvanmiyur,500 sqft,550000,-,No,Unfurnished,1 BHK,Family,Ready to Move,Thiruvanmiyur
+412,2 BHK Apartment  In Paramount Park for Rent  In Velachery,"Paramount Park  Vijaya Nagar, Velachery, Chennai 600042, Tamil Nadu, INDIA.",890 sqft,200000,30000,600,Fully furnished,2 BHK,All,Ready to Move,Velachery
+413,2 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Valmiki Nagar, Thiruvalluvar Nagar, Near RTO Thiruvanmiyur",700 sqft,90000,15000,No,Unfurnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+414,1 BHK Flat  In Standalone Building  for Rent  In Thiruvanmiyur,"Valmiki Nagar, near Sankara School",550 sqft,30000,9000,No,Semi furnished,1 BHK,Bachelor,Ready to Move,Thiruvanmiyur
+415,1 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Road, Near GRTJewellers",450 sqft,25000,7500,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+416,1 BHK Independent House  for Rent  In Taramani,"Independent House, Periyar Street  Taramani",800 sqft,25000,10000,No,Unfurnished,1 BHK,All,Ready to Move,-
+417,1 BHK Independent House  for Rent  In Thiruvanmiyur,valmiki street near bala avenue,600 sqft,100000,10000,No,Unfurnished,1 BHK,Family,Ready to Move,Thiruvanmiyur
+418,2 BHK Independent House  for Rent  In Velachery,"Independent House, 19th street, Tansi nagar","1,500 sqft",100000,35000,2000,Fully furnished,2 BHK,All,Ready to Move,Velachery
+419,1 RK Independent House  for Rent  In Velachery,"Independent House, 1725 tnhb colony velacher near penix mall back side",200 sqft,15000,3500,No,Unfurnished,1 RK,Bachelor,Ready to Move,Velachery
+420,3 BHK Flat  In Banu Chandran Illam for Rent  In Thiruvanmiyur,lb  road  near  Thiruvanmiyur Post Office,"1,100 sqft",198000,35000,1500,Semi furnished,3 BHK,Family,Ready to Move,Thiruvanmiyur
+421,2 BHK Flat  In Standalone Buildig for Rent  In Velachery,Velachery Rd near  The Westin Chennai Velachery,740 sqft,80000,15000,1000,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+422,1 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Bye Pass Road , Near Sri Murugan Marriage Hall A/C  ",590 sqft,50000,10000,No,Unfurnished,1 BHK,All,15-Nov-2022,Velachery
+423,2 BHK Independent House  for Rent  In Velachery,"Independent House, Shankar Nagar, near  Bala unavaham","1,600 sqft",90000,18000,No,Unfurnished,2 BHK,All,Ready to Move,Velachery
+424,1 BHK Independent House  for Lease  In Velacherry Railway Ground,sri nagar colony first main road velacherry,600 sqft,600000,500,500,Unfurnished,1 BHK,All,Ready to Move,-
+425,"1 BHK Independent House  for Lease  In 1st Main Road, Velachery","Independent House, Jaganatgapuram 1st main Road, Opposite to mary apartments",600 sqft,450000,-,No,Unfurnished,1 BHK,Bachelor,Ready to Move,Velachery
+426,1 BHK Independent House  for Rent  In Velachery,"Independent House,  Gandhi Road Vellakal,  near David Matriculation Higher Secondary School",300 sqft,20000,6000,500,Unfurnished,1 BHK,All,Ready to Move,Velachery
+427,1 BHK Independent House  for Rent  In Velachery,"Independent House, TNHB Colony, near Sri Thulasi Bakery",550 sqft,40000,7500,No,Semi furnished,1 BHK,All,30-Nov-2022,Velachery
+428,"2 BHK Flat  In Kumaran Villa, Kumaran Foundation for Rent  In Velachery","Balamurugan Nagar, Sarathy Nagar, Velachery, Chennai, Tamil Nadu 600042, India",780 sqft,100000,15000,500,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+429,"3 BHK Flat  In Sterling Srivedasri Apartments, Velachery for Rent  In Ag's Colony, Velachery",4th sreet Chokkalingam Nagar AGS colony Velachery chennai 600042,"1,130 sqft",75000,15000,1400,Unfurnished,3 BHK,Family,Ready to Move,Velachery
+430,3 BHK Independent House  for Lease  In Perumbakkam,"Independent House, Cheran Nagar near to Global Hospital","1,800 sqft",1800000,-,No,Semi furnished,3 BHK,Family,Ready to Move,-
+431,1 BHK Flat  for Rent  In Velachery,"Standalone Building, Velachery Main Rd, Indira Gandhi Nagar near Phoenix Market City",450 sqft,40000,7000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+432,1 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Bypass Rd, Near Murugan Kalyana Mandabam",500 sqft,30000,7500,500,Semi furnished,1 BHK,All,Ready to Move,Velachery
+433,2 BHK Independent House  for Rent  In Velachery,"Independent House, Dhandeeswaram Nagar, Near Buhari Hotel - Taramani Road",500 sqft,80000,20000,No,Fully furnished,2 BHK,All,Ready to Move,Velachery
+434,2 BHK Independent House  for Rent  In Velachery,"Independent House, Gandhi Road   NEAR TO David Matriculation Higher Secondary School",750 sqft,50000,11000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+435,1 BHK Independent House  for Rent  In Adambakkam,"Independent House, Ramakrishna nagar  near  Sri Muneeswarar Temple ",600 sqft,37500,7500,No,Unfurnished,1 BHK,Family,Ready to Move,-
+436,3 BHK Independent House  for Rent  In Velachery,"Independent House, Hudson Avenue near St. Savio Matriculation Higher Secondary School","1,300 sqft",100000,20000,500,Semi furnished,3 BHK,Family,Ready to Move,Velachery
+437,1 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House,  Thiruvalluvar Nagar, near Chennai Higher Secondary School",540 sqft,50000,10000,No,Unfurnished,1 BHK,Family,Ready to Move,Thiruvanmiyur
+438,"3 BHK Independent House  for Rent  In Kazhikundram, Taramani, Chennai, Tamil Nadu, India",kalikundram road,"1,200 sqft",150000,30000,No,Semi furnished,3 BHK,All,Ready to Move,-
+439,1 RK Independent House  for Rent  In Velachery,"Independent House, 1st St, Balamurugan Nagar, Near Kanchi ITI",300 sqft,50000,7500,No,Unfurnished,1 RK,Bachelor,Ready to Move,Velachery
+440,1 BHK Flat  In Esai Illam for Rent  In Thiruvanmiyur,"1st Main Road, Thiruvalluvar Nagar, Near Indian Overseas Bank",750 sqft,75000,13000,No,Unfurnished,1 BHK,Family,Ready to Move,Thiruvanmiyur
+441,2 BHK Flat  In Shivakala Apartment for Rent  In Velachery,Srinivasa Nagar Extension Near Durgai Temple,800 sqft,60000,12000,300,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+442,1 RK Independent House  for Rent  In Murugan Kalyana Mandapam Bus Stop,no.15/16 radha nagar first main road velacherry,320 sqft,15000,5000,No,Unfurnished,1 RK,Company,Ready to Move,-
+443,1 BHK Independent House  for Rent  In Velachery ,"Independent House, 3rd main road Rajalakshmi nagar Near  Kovai Pazhamudir Nilayam",700 sqft,80000,11000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+444,2 BHK Flat  for Rent  In Tharamani,"Standalone Building, Puratchi Thalaivi 10st St, Near Apollo Proton Cancer CentreTharamani",900 sqft,50000,16000,No,Unfurnished,2 BHK,All,Ready to Move,Tharamani
+445,2 BHK Flat  In Standalone Building  for Rent  In Thiruvanmiyur,"South Ave, Kamaraj Nagar near  Sri Sankara Vidyashramam Matriculation Higher Secondary School",750 sqft,100000,21000,500,Semi furnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+446,1 BHK Independent House  for Rent  In Velachery,"Independent House, 1C/7, 8th Cross street, Nethaji colony",500 sqft,30000,6000,400,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+447,1 RK Independent House  for Rent  In Velachery,"Independent House,   Nehru Nagar near Aalpha Nursery and Primary School",150 sqft,15000,4500,No,Unfurnished,1 RK,Bachelor,Ready to Move,Velachery
+448,3 BHK Flat  for Rent  In Velachery ,"standalone building, VGP Selva nagar, 2nd Main rd Velachery Bypass Rd NearVelachery Bypass Rd","1,200 sqft",75000,25000,500,Unfurnished,3 BHK,Family,Ready to Move,Velachery
+449,2 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Kamaraj Nagar,  near V3 Hyundai Showroom",750 sqft,100000,15000,No,Semi furnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+450,3 BHK Apartment  In Ceedeeyes Regal Palm Gardens for Rent  In Velachery,"Ceedeeyes Regal Palm Gardens  VGP Selva Nagar, Velachery, Chennai-600042, Tamil Nadu, INDIA.","2,500 sqft",120000,55000,5760,Semi furnished,3 BHK,All,Ready to Move,Velachery
+451,2 BHK Independent House  for Rent  In Kabali Street,kabalistreet/velachery/Davidschool,"1,500 sqft",200000,30000,No,Semi furnished,2 BHK,All,Ready to Move,-
+452,1 BHK Independent House  for Rent  In Velachery,"Independent House,  Nehru Nagar, Kuilkuppam, Alandur Near Balaji Bakery",500 sqft,30000,7000,500,Unfurnished,1 BHK,All,Ready to Move,Velachery
+453,2 BHK Independent House  for Rent  In Velachery,"Independent House,  Nehru Nagar, Kuilkuppam, Alandur Near Balaji Bakery",600 sqft,50000,11000,500,Unfurnished,2 BHK,All,Ready to Move,Velachery
+454,1 BHK Flat  In Apartment for Rent  In Velachery,"Bajanai Koil Street, behind GRT Jewellers, Velachery bypass",546 sqft,50000,11000,500,Semi furnished,1 BHK,All,Ready to Move,Velachery
+455,2 BHK Flat  In Subhashri Apartments for Rent  In Velachery,"X6G7+8W8, Erettai Pillayar Kovil St, Gandhi Nagar, MGR Nagar, Devi Karumariamman Nagar Extension, Velachery, Chennai, Tamil Nadu 600042",650 sqft,50000,13500,400,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+456,1 RK Independent House  for Rent  In Tharamani,7/1 Akbar street. mahathma gandhi nagar.tharamani,264 sqft,30000,6000,300,Unfurnished,1 RK,Family,Ready to Move,Tharamani
+457,1 BHK Flat  for Rent  In Velachery,"standalone building, Velachery Main Rd, Near Phoenix Market City",550 sqft,25000,9000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+458,3 BHK Flat  In Jp Villa - Velachery Apartments for Rent  In Velachery," Velachery - Tambaram Main Rd,near The Chennai Silks - Velachery","2,000 sqft",320000,40000,3000,Fully furnished,3 BHK,Family,Ready to Move,Velachery
+459,1 BHK Independent House  for Rent  In Velachery,"Independent House, Nethaji Rd,near St. Britto?s Academy - Best CBSE School in Velachery, Best CBSE School in Chennai",325 sqft,50000,8000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+460,3 BHK Flat  for Rent  In  Thiruvanmiyur,"standalone building, Kalakshetra Rd,Near Kalakshetra Foundation",800 sqft,60000,14000,No,Semi furnished,3 BHK,Family,Ready to Move,Thiruvanmiyur
+461,3 BHK Flat  In Shruthi Apartments for Rent  In Velachery,"6th Cross Street, Murugu Nagar, Velachery","1,375 sqft",150000,20000,No,Unfurnished,3 BHK,All,Ready to Move,Velachery
+462,1 RK Independent House  for Rent  In Tharamani,"Independent House, Periyar Nagar, Near R.R. Suguna Chicken Shop",300 sqft,20000,4700,200,Unfurnished,1 RK,All,Ready to Move,Tharamani
+463,"2 BHK Flat  In Bamana Pine, Velachery for Rent  In Kalki Nagar Main Road",Kalki Nagar,750 sqft,75000,16000,1500,Unfurnished,2 BHK,All,01-Dec-2022,Velachery
+464,2 BHK Flat  In Mantralayam Apatrment for Rent  In Velachery," 1st Main Rd, Baby Nagar, near Anugraha A/C Marriage Hall","1,060 sqft",102000,17000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+465,1 BHK Independent House  for Rent  In Varadharajapuram,"Independent House, 3rd Main Rd, Valmiki Nagar, Kannappa Nagar, Thiruvanmiyur near  Marutham Apartments",800 sqft,40000,6500,No,Semi furnished,1 BHK,All,Ready to Move,-
+466,1 BHK Independent House  for Rent  In Velachery,"Independent House, Taramani Link Rd, Tansi Nagar, near Union Bank Of India Velachery ",364 sqft,20000,6000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+467,1 RK Independent House  for Rent  In Tharamani,"Independent House,  100 Feet Rd, Thanthai Periyar Nagar near  Hema Mahal",340 sqft,20000,4500,No,Unfurnished,1 RK,Bachelor,Ready to Move,Tharamani
+468,"1 RK Independent House  for Rent  In Main Road, Velachery","venkateswara nagar 5 th main road, velachery",500 sqft,35000,7000,200,Unfurnished,1 RK,Bachelor,Ready to Move,Velachery
+469,2 BHK Independent House  for Rent  In Velachery,"Independent House, Venkateswara Nagar, Velachery Bypass Road, Near Sri Balaji Furnitures",900 sqft,50000,12000,500,Unfurnished,2 BHK,Family,01-Jan-2023,Velachery
+470,2 BHK Flat  In Sri Surya Apartments for Rent  In Velachery,"Vijayanagar, near Velachery vijayanagar bus stand and Global Wear","1,200 sqft",80000,20000,1500,Semi furnished,2 BHK,All,Ready to Move,Velachery
+471,2 BHK Independent House  for Lease  In Velachery,"Independent House, Devi Karumariamman Nagar Extension, near  Lakshmi Vidyalaya School ",600 sqft,600000,-,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+472,1 BHK Flat  In Ss Flats for Lease  In Velachery,"4th Main Rd, AGS Colony near Rammiyam Supermarket",577 sqft,600000,-,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+473,1 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Bypass Rd, Gangai Nagar near Murugan Kalyana Mandapam",500 sqft,20000,6000,500,Unfurnished,1 BHK,All,Ready to Move,Velachery
+474,2 BHK Flat  for Rent  In Velachery,"standalone building, Bhuvaneshwari Nagar near  The Chennai Silks - Velachery ","1,000 sqft",150000,25000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+475,1 RK Independent House  for Rent  In Velachery,"Independent House, Avvaiyar St, near  Aalpha Nursery and Primary School",200 sqft,20000,5000,No,Semi furnished,1 RK,Family,Ready to Move,Velachery
+476,2 BHK Flat  In Malakshmi Nivas for Rent  In Velachery,"Nethaji Colony, Near Speed Print",900 sqft,60000,12000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+477,1 RK Independent House  for Rent  In Tharamani,"Independent House, Rajaji St near to Devi Sri Karumari Amman Temple",100 sqft,30000,5000,No,Unfurnished,1 RK,Bachelor,Ready to Move,Tharamani
+478,1 BHK Flat  In M587 for Rent  In Thiruvanmiyur,M587-28TH cross street Thiruvallur nagar Thiruvanmiyur,550 sqft,50000,1300,1500,Unfurnished,1 BHK,All,10-Nov-2022,Thiruvanmiyur
+479,1 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Rd, Indira Gandhi Nagar,  near  Phoenix Marketcity ",400 sqft,40000,10000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+480,1 RK Independent House  for Rent  In Velachery,"Independent House, Velachery Rd, Indira Gandhi Nagar,  near  Phoenix Marketcity ",200 sqft,20000,5000,No,Unfurnished,1 RK,All,Ready to Move,Velachery
+481,1 BHK Independent House  for Rent  In Velachery,"Independent House, EB Colony , near Sri Devi Naga Muthumaari Amman Temple & Vada Thirunallar Saneeshwaran Temple",500 sqft,30000,6500,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+482,1 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Rd, Near Phoenix Marketcity",600 sqft,50000,8500,No,Semi furnished,1 BHK,All,20-Nov-2022,Velachery
+483,2 BHK Independent House  for Rent  In Mgr Nagar ,"Independent House, 100 Feet Road,near  Shri Kumaran Paints ",700 sqft,60000,11000,No,Unfurnished,2 BHK,Family,Ready to Move,-
+484,2 BHK Flat  In Shree Enclave for Rent  In Velachery,"2nd street, park Avenue, Near Ramaniyam ","1,100 sqft",100000,22000,No,Semi furnished,2 BHK,All,Ready to Move,Velachery
+485,3 BHK Flat  In Hashini  Graden  Apartment for Rent  In Velachery,"100 Feet Rd, near  GRTJewellers ","1,210 sqft",500000,50000,3500,Semi furnished,3 BHK,All,Ready to Move,Velachery
+486,2 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Rd, near  GRTJewellers ",700 sqft,100000,11000,No,Unfurnished,2 BHK,All,Ready to Move,Velachery
+487,2 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Rd, near  GRTJewellers ",700 sqft,100000,10000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+488,1 BHK Independent House  for Rent  In Tharamani,"Independent House, MGR nagar, Near Apollo Proton Cancer Centre",600 sqft,30000,9000,No,Semi furnished,1 BHK,All,29-Dec-2022,Tharamani
+489,1 RK Independent House  for Rent  In Tharamani,"Independent House, 100 Feet Road, Mahathma Gandhi Nagar, near Jumma Masjid",200 sqft,10000,4500,No,Unfurnished,1 RK,Family,Ready to Move,Tharamani
+490,1 RK Independent House  for Rent  In Velachery Vijayanagar,"Independent House, Velachery ",500 sqft,35000,8000,No,Unfurnished,1 RK,Family,10-Nov-2022,Velachery
+491,1 RK Independent House  for Rent  In Velachery,"Independent House, , TNHB Colony,near  Leather Goods & metal Fittings S S ENTERPRISES ",440 sqft,25000,5000,No,Unfurnished,1 RK,All,Ready to Move,Velachery
+492,2 BHK Independent House  for Rent  In Velachery,"Independent House, TamilNadu Housing Board Colony, near   State Bank Of India ",650 sqft,100000,10000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+493,1 RK Flat  In Apartment for Rent  In Velachery,"Venkateswara Nagar, near Guru Nanak College",300 sqft,30000,6000,200,Unfurnished,1 RK,Bachelor,Ready to Move,Velachery
+494,1 BHK Independent House  for Rent  In Velachery,"Independent House, Varadharajapuram, near Sri Maruthi Bhavan",600 sqft,40000,8500,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+495,4+ BHK Independent House  for Rent  In Velachery,"Independent House, , Dandeeshwaram Main Rd, near  Latta Super Market Velachery ","3,000 sqft",600000,60000,No,Semi furnished,4+ BHK,Family,Ready to Move,Velachery
+496,1 BHK Independent House  for Rent  In Velachery,"Independent House,   Velachery Main Rd, Near Phoenix Market City",550 sqft,40000,8500,No,Semi furnished,1 BHK,All,01-Dec-2022,Velachery
+497,1 RK Flat  In Stand Alone Building  for Rent  In Kottivakkam, Old Mahabalipuram Rd near Holiday Inn Chennai OMR IT Expressway ,300 sqft,20000,6000,No,Semi furnished,1 RK,All,Ready to Move,-
+498,1 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Road Near Sri Balaji Furnitures",500 sqft,30000,8000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+499,2 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Road, Near Sri Balaji Furnitures","1,200 sqft",40000,12000,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+500,2 BHK Independent House  for Rent  In Velachery,"Independent House, Ambedkar Nagar near Muthu Mariyamman Temple",640 sqft,50000,10000,No,Unfurnished,2 BHK,Bachelor,Ready to Move,Velachery
+501,1 BHK Flat  for Rent  In Velachery,"Standalone building, TamilNadu Housing Board Colony Near State Bank Of India",640 sqft,70000,10000,No,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+502,1 RK Flat  for Rent  In Velachery,"Standalone Building, Velachery Rd, Indira Gandhi Nagar, Velachery, Near Phoenix Marketcity",300 sqft,10000,5500,No,Unfurnished,1 RK,Family,Ready to Move,Velachery
+503,1 BHK Independent House  for Rent  In Velachery,"Independent House, TNHB Colony, near  D.A.V. BABA SCHOOL",500 sqft,40000,7500,No,Unfurnished,1 BHK,All,10-Nov-2022,Velachery
+504,2 BHK Independent House  for Rent  In Velachery,"Independent House, GRTJewellers 137, 100 Feet Rd",700 sqft,50000,12000,300,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+505,3 BHK Flat  In Standalone Building  for Rent  In Velachery,"2nd Main Rd,near  CSI Church of Christ the King - Adambakkam, Chennai ",980 sqft,240000,24000,No,Unfurnished,3 BHK,Family,Ready to Move,Velachery
+506,2 BHK Independent House  for Rent  In Velachery,"Independent House, TamilNadu Housing Board Colony, TNHB Colony, Near  Home care physiotherapy unique care Velachery ",640 sqft,100000,10000,500,Semi furnished,2 BHK,All,05-Nov-2022,Velachery
+507,1 RK Independent House  for Rent  In Velachery,"Independent House, Velachery Bypass Rd near BPCL: Velachery",200 sqft,20000,5000,No,Unfurnished,1 RK,Family,Ready to Move,Velachery
+508,2 BHK Flat  In Apartment for Rent  In Thiruvanmiyur,"Bharathi Nagar, Near Sacred Heart College",800 sqft,75000,15000,No,Unfurnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+509,1 BHK Flat  for Lease  In Velachery,"Standalone Building, Nethaji Rd Near St. Britto's Academy ",400 sqft,400000,-,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+510,1 BHK Independent House  for Rent  In Velachery,"Independent House, robadiamman koil  street  Near Guru Nanak College ",500 sqft,30000,7500,300,Unfurnished,1 BHK,All,Ready to Move,Velachery
+511,1 BHK Independent House  for Rent  In David Matriculation Higher Secondary School,gandhi road,800 sqft,60000,12000,No,Unfurnished,1 BHK,All,Ready to Move,-
+512,2 BHK Independent House  for Rent  In Tharamani,"Independent House, 100 Feet Rd, Bharathi Nagar, Near Arul Migu Bhavani Amman Alayam ",800 sqft,100000,15000,No,Unfurnished,2 BHK,All,Ready to Move,Tharamani
+513,1 BHK Independent House  for Rent  In Tharamani ,"Independent House, bharathu nagar Pushpa Colony Near Arun Hospital",500 sqft,30000,8500,No,Semi furnished,1 BHK,Family,Ready to Move,Tharamani
+514,1 BHK Independent House  for Lease  In Velachery,"1022, 90th lane, Tnhb colony, velachery,ch-42, near by mosique ",430 sqft,400000,600,600,Fully furnished,1 BHK,All,Ready to Move,Velachery
+515,2 BHK Independent House  for Rent  In Velachery,"Independent House,  New Colony Road, Ayodhya Colony,  near   TCS Velachery - Vehicle Entry  and  Amma Unvagam ",800 sqft,50000,14000,700,Unfurnished,2 BHK,All,Ready to Move,Velachery
+516,1 BHK Independent House  for Rent  In Taramani,"Independent House, MGR Main Road  ,Near The Tamil Nadu Dr.Ambedkar Law University",400 sqft,30000,8000,No,Semi furnished,1 BHK,All,Ready to Move,-
+517,1 RK Independent House  for Rent  In Tharamani,"Independent House, Mahathma Gandhi Nagar,  near Shri AMM Murugappa Chettiar Research Centre (MCRC)",200 sqft,15000,7000,No,Unfurnished,1 RK,Bachelor,Ready to Move,Tharamani
+518,1 BHK Independent House  for Lease  In Tharamani,"Independent House, pilliyar kovil street ,Near MUMMY DADDY ANDHRA MESS",400 sqft,400000,-,No,Unfurnished,1 BHK,All,Ready to Move,Tharamani
+519,1 BHK Independent House  for Rent  In Tharamani,"Independent House, 100 Feet Rd, Gandhi St, Near Panchamukha Hanuman Temple",400 sqft,30000,8500,No,Unfurnished,1 BHK,All,Ready to Move,Tharamani
+520,1 RK for Lease  In Velachery,"Standalone Building, Velachery Bypass Rd Near Sri Murugan Marriage Hall A/C",250 sqft,300000,-,No,Semi furnished,1 RK,All,Ready to Move,Velachery
+521,2 BHK Flat  In Balu Enclave Bay Nagar Velachery for Rent  In 2nd Cross Street,balu enclave,675 sqft,75000,15000,500,Semi furnished,2 BHK,All,30-Nov-2022,Velachery
+522,1 BHK Independent House  for Rent  In Taramani,"Independent House, Taramani Link Rd, near  Crescent Restaurant, Taramani ",600 sqft,10000,6500,No,Unfurnished,1 BHK,All,Ready to Move,-
+523,1 BHK Independent House  for Rent  In Velachery,"Independent House, New Colony Road near Tata Consultancy Services -Velachery",500 sqft,50000,10000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+524,1 BHK Independent House  for Rent  In Velachery,"Independent House, 25th street ,near britto school ",450 sqft,50000,8500,No,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+525,1 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Valmiki Nagar, Near RTO Thiruvanmiyur",400 sqft,50000,10000,No,Unfurnished,1 BHK,Family,Ready to Move,Thiruvanmiyur
+526,1 RK Independent House  for Rent  In Velachery,"Independent House, M.G.R. Nagar 12th St, Devi Karumariamman Nagar Extension ,  near  Lakshmi Vidyalaya School",150 sqft,10000,3500,No,Semi furnished,1 RK,All,Ready to Move,Velachery
+527,2 BHK Flat  for Rent  In  Tharamani,"Standalone Building, Anjuamma st 100 Feat Road Mahathma Gandhi Nagar, near HEMA MAHAL","1,100 sqft",100000,15000,No,Semi furnished,2 BHK,All,Ready to Move,Tharamani
+528,1 RK Independent House  for Rent  In Velachery,"Independent House, Nehru Nagar near  Public Distribution Office Ration Shop",300 sqft,40000,5000,No,Unfurnished,1 RK,Bachelor,Ready to Move,Velachery
+529,2 BHK Flat  In Dhandeswaram for Rent  In Velachery,"Dandeeshwaram Main Rd,Dandeeshwaram,Near Latta Super Market","1,000 sqft",180000,18000,1000,Semi furnished,2 BHK,Family,05-Nov-2022,Velachery
+530,1 BHK Independent House  for Rent  In Tneb Velachery,near water tank ,500 sqft,30000,10000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+531,1 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Sardar Patel Rd, Sriram Nagar, near shiva temple",500 sqft,40000,6000,No,Unfurnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+532,2 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, 9th West Street, Kamaraj Nagar, Near Shankara school",850 sqft,120000,20000,500,Unfurnished,2 BHK,Family,Ready to Move,Thiruvanmiyur
+533,2 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Rd,orandi amman kovil  Near   Police Station","1,000 sqft",50000,12000,No,Semi furnished,2 BHK,All,Ready to Move,Velachery
+534,2 BHK Independent House  for Rent  In Velachery,"Independent House, Indira Gandhi Nagar, near to  Phoenix Marketcity",700 sqft,25000,15000,No,Unfurnished,2 BHK,All,Ready to Move,Velachery
+535,"2 BHK Independent House  for Rent  In 6th Main Road, Velachery","Independent House, 6th street,sridevi karumariamman nagar,velachery,chennai 600042 opp to Deepam stores",952 sqft,50000,15000,600,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+536,3 BHK Flat  In Duplex Row House for Rent  In 6th Main Road,"6th Main Road, Vijaya Nagar, Velachery.","1,550 sqft",150000,30000,2000,Unfurnished,3 BHK,Family,Ready to Move,-
+537,"1 BHK Independent House  for Rent  In Sriram Nagar, Tharamani",near madya kailash temple,375 sqft,30000,10000,No,Unfurnished,1 BHK,Bachelor,Ready to Move,Tharamani
+538,3 BHK Independent House  for Rent  In Tharamani,"Independent House, Bharathi Nagar near Arun hospital ","1,250 sqft",500000,40000,No,Unfurnished,3 BHK,All,Ready to Move,Tharamani
+539,1 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, 1st Cross St, Thiruvalluvar Nagar, Thiruvanmiyur, Near Seriyani Hot Point",450 sqft,60000,12000,No,Unfurnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+540,2 BHK Independent House  for Rent  In Tharamani,"Independent House, Pillaiyar Koil St, Anna Nagar near Taramani Gate, IIT",700 sqft,100000,16000,No,Unfurnished,2 BHK,All,Ready to Move,Tharamani
+541,2 BHK Flat  In Karthikeyan Apartment for Rent  In Tharamani," Kennady St, Periyar Nagar, near Indian Overseas Bank","1,200 sqft",150000,15000,2000,Semi furnished,2 BHK,Family,Ready to Move,Tharamani
+542,1 BHK Independent House  for Rent  In Velachery,balaji colony,450 sqft,50000,10000,500,Unfurnished,1 BHK,Bachelor,Ready to Move,Velachery
+543,1 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Rd,  near  Sree Gupta Bhavan ",700 sqft,60000,12000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+544,"2 BHK Flat  In Arunachalesgwarar Arutkodai for Rent  In Vgp Selva Nagar Extension, Vgp Selva Nagar, Velachery",Velachery,808 sqft,70000,14000,2200,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+545,2 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Rd, near  GRTJewellers ",800 sqft,72000,12000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+546,1 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, 47th cross street Thiruvalluvar Naga near RTO Thiruvanmiyur",400 sqft,50000,8000,No,Unfurnished,1 BHK,All,10-Nov-2022,Thiruvanmiyur
+547,1 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Rd Lakshmi nagar Opp to  GRTJewellers",600 sqft,90000,9000,No,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+548,2 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Rd, Lakshmi nagar Opp to  GRTJewellers",850 sqft,130000,13000,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+549,2 BHK Independent House  for Rent  In Velacherry,"Independent House, tnhb colony velacherry",640 sqft,50000,9000,500,Unfurnished,2 BHK,All,Ready to Move,-
+550,1 RK Independent House  for Rent  In Taramani,"Independent House, Kattabomman St,Ambal Nagar, Near C.S.I. St.Mark's Church",150 sqft,15000,4000,No,Unfurnished,1 RK,Bachelor,01-Dec-2022,-
+551,1 BHK Independent House  for Rent  In Velachery,"Independent House, Venkateswara Nagar 3rd Main Road near Vishali Motors ",425 sqft,20000,7500,250,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+552,1 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Rd, Indira Gandhi Nagar Near Phoenix Marketcity",800 sqft,40000,7000,100,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+553,1 BHK Independent House  for Rent  In Velachery,"Independent House, A L mudali 2nd Street, Near St. Britto?s Academy - Best CBSE School in Velachery, Best CBSE School in Chennai",400 sqft,30000,6000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+554,1 BHK Independent House  for Rent  In Velachery,"Independent House, TamilNadu Housing Board Colony,  , near State Bank Of India",400 sqft,25000,5500,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+555,1 BHK Independent House  for Rent  In Velachery,"Independent House, Pillayar theru, Near Aalpha School",550 sqft,100000,12000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+556,1 BHK Independent House  for Lease  In  Velachery,"Independent House,  Sathyamoorthy Street near Murugavel MedicalsNehru Colony ",550 sqft,500000,-,No,Semi furnished,1 BHK,Family,10-Nov-2022,Velachery
+557,1 BHK Independent House  for Rent  In Velachery,"Independent House,   Indira Gandhi Nagar near Phoenix Marketcity",600 sqft,30000,8000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+558,1 BHK Independent House  for Rent  In Velachery,"Independent House, , Indira Gandhi Nagar near Phoenix Marketcity",500 sqft,30000,7000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+559,1 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Rd, near  Sree Gupta Bhavan ",600 sqft,35000,6500,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+560,1 BHK Independent House  for Lease  In Thiruvanmiyur,"Independent House, Gandhi street Periyar Nagar ",900 sqft,400000,300,300,Unfurnished,1 BHK,Family,01-Dec-2022,Thiruvanmiyur
+561,2 BHK Flat  In Apartment  for Rent  In Thiruvanmiyur, Thiruvalluvar Nagar near Singapore Shoppe,850 sqft,180000,18000,1200,Semi furnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+562,2 BHK Independent House  for Rent  In Tharamani,"Independent House,  Anna Nagar near Tharamani Government School",850 sqft,50000,10000,No,Semi furnished,2 BHK,Family,Ready to Move,Tharamani
+563,1 RK Independent House  for Rent  In Velachery,"Independent House,  Throwpathy Amman Koil 1st, Near World of Titan and Sangeetha Veg Restaurant",200 sqft,20000,6000,No,Unfurnished,1 RK,Bachelor,Ready to Move,Velachery
+564,2 BHK Independent House  for Rent  In Velachery,"Independent House, gangai nagar  near Murugan Kalyana Mandapam",800 sqft,50000,10000,500,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+565,2 BHK Independent House  for Lease  In Taramani,"Independent House, govindan street  near Pillayar Koil Ganesh Temple",800 sqft,1000000,-,No,Unfurnished,2 BHK,Family,Ready to Move,-
+566,1 BHK Independent House  for Lease  In Tharamani,"Independent House,  Anna Nagar near  Panchamukha Hanuman Temple ",300 sqft,500000,-,No,Unfurnished,1 BHK,All,Ready to Move,Tharamani
+567,1 BHK Independent House  for Lease  In Taramani,"Independent House, govindan street  near Pillayar Koil Ganesh Temple",500 sqft,500000,-,No,Unfurnished,1 BHK,All,Ready to Move,-
+568,2 BHK Independent House  for Lease  In Tharamani,"Independent House,  Anna Nagar  near  Panchamukha Hanuman Temple ",800 sqft,700000,-,No,Unfurnished,2 BHK,All,Ready to Move,Tharamani
+569,2 BHK Independent House  for Lease  In Tharamani,"Independent House, Anna Nagar, near  Panchamukha Hanuman Temple ,anna nagar,","1,200 sqft",1000000,-,No,Semi furnished,2 BHK,All,Ready to Move,Tharamani
+570,1 BHK Independent House  for Rent  In Tharamani,"Independent House, Lake View Street, Anna Nagar, Tharamani, Near Panchamukha Hanuman Temple",500 sqft,20000,8000,No,Unfurnished,1 BHK,All,Ready to Move,Tharamani
+571,1 BHK Independent House  for Rent  In Velachery,"Independent House, pillaiyar kovil st, near GRTJewellers",500 sqft,50000,12000,500,Semi furnished,1 BHK,All,Ready to Move,Velachery
+572,1 BHK Independent House  for Rent  In Velachery,"Independent House, pillaiyar kovil st near GRTJewellers",500 sqft,50000,9000,500,Semi furnished,1 BHK,All,Ready to Move,Velachery
+573,1 BHK Independent House  for Rent  In Tharamani,"Independent House, Kalangair  Nagar 3rd Street near Sri Srinivasa Mini Hall",600 sqft,24000,8000,No,Semi furnished,1 BHK,Family,Ready to Move,Tharamani
+574,"1 RK Independent House  for Rent  In Tharamani,","Independent House, Tharamani Main road  Near MGR Film City ",150 sqft,15000,5000,No,Semi furnished,1 RK,Bachelor,Ready to Move,Tharamani
+575,1 RK Independent House  for Rent  In Tharamani,"Independent House, Tharamani Main road  Near MGR Film City ",250 sqft,27000,9000,No,Semi furnished,1 RK,Bachelor,Ready to Move,Tharamani
+576,3 BHK Independent House  for Rent  In Thiruvanmiyur,"Standalone Building, pillayar koil street rajaji nagar thiruvanmiyur","1,200 sqft",100000,16000,No,Semi furnished,3 BHK,All,Ready to Move,Thiruvanmiyur
+577,1 RK Flat  for Rent  In Taramani,"Standalone Building, Taramani Link Road,Near Jumma Masjid",200 sqft,30000,6000,No,Unfurnished,1 RK,All,Ready to Move,-
+578,1 BHK Flat  for Rent  In Taramani,"Standalone Building, Taramani Link Road,Near Jumma Masjid",700 sqft,40000,8000,No,Unfurnished,1 BHK,All,Ready to Move,-
+579,1 RK Independent House  for Rent  In Velachery,"Independent House, Guru Nanak Salai Near Guru Nanak College",150 sqft,15000,4500,No,Unfurnished,1 RK,Family,Ready to Move,Velachery
+580,1 RK Flat  In Standlone Building  for Rent  In Velachery,"Ezumudaliyar St, near to Aadharsh Hospital",200 sqft,25000,5500,No,Semi furnished,1 RK,Family,Ready to Move,Velachery
+581,1 BHK Independent House  for Rent  In Velachery,"Independent House, NSK 2nd Street, Near nehru Nagar Masjid,",550 sqft,20000,5500,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+582,1 BHK Independent House  for Rent  In Kottivakkam,"Independent House, Old Mahabalipuram Rd, near Holiday Inn",500 sqft,30000,10000,No,Semi furnished,1 BHK,All,Ready to Move,-
+583,1 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Rd, NEAR  GRTJewellers",500 sqft,80000,10000,No,Semi furnished,1 BHK,All,Ready to Move,Velachery
+584,2 BHK Flat  In Standalone Building  for Rent  In Velachery, Velachery Bypass Rd near Dindigul Thalappakatti Velachery,750 sqft,85000,17000,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+585,1 BHK Independent House  for Rent  In Tcs,"Independent House, Ambedkar street, New colony. Near TCS Tharamani",300 sqft,50000,10000,No,Unfurnished,1 BHK,All,Ready to Move,-
+586,1 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Road, Near Arun Ice Cream",400 sqft,40000,9000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+587,1 BHK Independent House  for Rent  In Velachery,"Independent House, TNHB Colony, near Velachery RSU Telephone Exchange",380 sqft,30000,6000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+588,1 BHK Independent House  for Lease  In Velachery,"Independent House, TNHB Colony,near St. Britto?s Academy",450 sqft,350000,-,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+589,2 BHK Independent House  for Rent  In Velachery,"Independent House, Main Rd, 100 Feet Road, Velachery - Tambaram Main Rd, Lakshmi Nagar, Near GRTJewellers","1,100 sqft",70000,20000,No,Semi furnished,2 BHK,All,Ready to Move,Velachery
+590,1 RK Flat  In Standalone Building  for Rent  In Velachery,"TNHB Colony,near Britto School",300 sqft,30000,7000,No,Unfurnished,1 RK,All,Ready to Move,Velachery
+591,1 RK Independent House  for Rent  In Tharamani,"Independent House, Mahathma Gandhi Nagar,near Shri AMM Murugappa Chettiar Research Centre (MCRC)",250 sqft,30000,6000,No,Unfurnished,1 RK,Family,Ready to Move,Tharamani
+592,1 BHK Independent House  for Lease  In Tharamani,"Independent House,  Lake View Street  near  Panchamukha Hanuman Temple",500 sqft,600000,-,No,Unfurnished,1 BHK,Family,29-Nov-2022,Tharamani
+593,1 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Rd, Near Chennai Metropolitan Water Supply and Sewerage Board",450 sqft,40000,7500,350,Unfurnished,1 BHK,All,Ready to Move,Velachery
+594,2 BHK Independent House  for Rent  In Tharamani,"Independent House, Thanthai Periyar Nagar, Near HEMA MAHAL",400 sqft,50000,13000,No,Semi furnished,2 BHK,All,Ready to Move,Tharamani
+595,1 BHK Independent House  for Rent  In  Perungudi,"Independent House, Ambedkar Nagar,near The Tamil Nadu Dr.Ambedkar Law University",650 sqft,25000,6000,No,Unfurnished,1 BHK,All,Ready to Move,-
+596,1 BHK Flat  for Rent  In Tharamani,"Standalone Building, Mahathma Gandhi Nagar, Tharamani, Near Advent Christian Church",400 sqft,30000,8000,No,Unfurnished,1 BHK,Bachelor,Ready to Move,Tharamani
+597,1 BHK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Bye Pass Road, Thangai Nagar, Velachery, Near Sri Murugan Marriage Hall A/C",500 sqft,15000,6000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+598,2 BHK Flat  In Shantha Shelter  for Rent  In Velachery,"Tambaram Main Rd,Bhuvaneshwari Nagar  Near The Chennai Silks ",720 sqft,60000,12000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+599,1 BHK Independent House  for Rent  In Velachery,"Independent House, Gangai Amman Koil 2nd St, Near Gangai Amman Koil",500 sqft,30000,8000,No,Semi furnished,1 BHK,All,Ready to Move,Velachery
+600,1 RK Independent House  for Rent  In Velachery,"Independent House, Gangai Amman Koil 2nd St, Near Gangai Amman Koil",300 sqft,20000,6000,No,Unfurnished,1 RK,All,Ready to Move,Velachery
+601,1 RK Independent House  for Rent  In Tharamani,"Independent House, Kazhikundram Kanagam near Modern Bread Company",100 sqft,20000,4500,No,Unfurnished,1 RK,All,Ready to Move,Tharamani
+602,"1 BHK Flat  In Independent Apartment for Rent  In 4th Avenue West, Velachery",4th Avenue west dhandeeshwaram nagar,400 sqft,50000,12000,No,Semi furnished,1 BHK,Bachelor,Ready to Move,Velachery
+603,1 BHK Independent House  for Rent  In Velachery,"Independent House, Throwpathy Amman Koil St Near Government Hr. Se. School, Vellachery",450 sqft,30000,7500,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+604,1 RK Independent House  for Rent  In Tharamani,"Independent House, 4th Cross St CIT Campus near MGR Government Film and Television Institute",250 sqft,25000,6000,1000,Semi furnished,1 RK,Bachelor,Ready to Move,Tharamani
+605,1 BHK Flat  In Standalone Building  for Rent  In Taramani,Masjid street near C.S.I. St.Mark's Church,450 sqft,30000,8000,No,Semi furnished,1 BHK,All,Ready to Move,-
+606,1 RK Independent House  for Rent  In Velachery,"Independent House, Devi Karumariamman Nagar, near  Durgai Temple",300 sqft,10000,3500,No,Unfurnished,1 RK,All,Ready to Move,Velachery
+607,"2 BHK Independent House  for Rent  In  Velachery, ","Independent House, 100 Feet Rd,near  GRTJewellers",850 sqft,90000,15000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+608,1 RK Flat  In Standalone Building  for Rent  In Tharamani,"100 feet rd , near St.Antony's Church Tharamani",600 sqft,15000,5000,No,Semi furnished,1 RK,All,Ready to Move,Tharamani
+609,"2 BHK Flat  In Sri Balaji Chaitanya for Rent  In Ram Nagar, Velachery","6th street, Ram nagar, velachery , chennai -600042, opposite to grand mall",700 sqft,50000,13000,1000,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+610,1 BHK Independent House  for Rent  In Tharamani,"Independent House, 100 Feet Road near C.S.I. St.Mark's Church",500 sqft,90000,9000,No,Unfurnished,1 BHK,All,Ready to Move,Tharamani
+611,1 BHK Independent House  for Lease  In Tharamani,"Independent House, Kennedy St near to Amma Unavagam",400 sqft,350000,-,No,Semi furnished,1 BHK,All,Ready to Move,Tharamani
+612,1 RK Independent House  for Rent  In Tharamani,"Independent House,  Kennedy St near to Amma Unavagam",250 sqft,40000,5000,No,Unfurnished,1 RK,All,Ready to Move,Tharamani
+613,1 BHK Independent House  for Rent  In Velachery,"Independent House, velachery main road near Yoganarasimhar Temple",450 sqft,50000,15000,500,Unfurnished,1 BHK,Bachelor,Ready to Move,Velachery
+614,1 BHK Independent House  for Rent  In Velachery,"Independent House, Gandhi Rd, Anna Garden near IIT Madras Velachery Gate  ",600 sqft,30000,7500,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+615,1 BHK Independent House  for Rent  In Tharamani,"Independent House,  Mosque Street  Mahathma Gandhi Nagar near Masjid Allah",400 sqft,30000,7500,No,Semi furnished,1 BHK,All,Ready to Move,Tharamani
+616,2 BHK Independent House  for Rent  In Velachery,"Independent House, Anna Garden near IIT Madras Velachery Gate  ",800 sqft,40000,9500,No,Unfurnished,2 BHK,All,Ready to Move,Velachery
+617,3 BHK Flat  for Rent  In Velachery,"standalone building,  Indira Gandhi Nagar,  near Phoenix Mall Park","1,200 sqft",150000,25000,No,Unfurnished,3 BHK,Bachelor,Ready to Move,Velachery
+618,1 BHK Independent House  for Rent  In Velachery,"Independent House, TamilNadu Housing Board Colony, Velachery Main Rd Near Muthu Maari Amman Tirukovil",500 sqft,25000,7500,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+619,1 BHK Independent House  for Rent  In Velachery,"Independent House, Mathiyazhagan street, Nehru nagar, Near NEHRU HIGH SCHOOL",400 sqft,50000,8000,500,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+620,1 RK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Avvai Nagar Rd Bharathi Nagar, near Makil Retail Shop",200 sqft,20000,5000,No,Unfurnished,1 RK,Family,Ready to Move,Thiruvanmiyur
+621,2 BHK Independent House  for Lease  In Velachery,"Independent House, Velachery Bypass Rd, Venkateswara Nagar, near  HP Petrol Pump Venkateshwara Agencies ","1,320 sqft",1000000,-,No,Unfurnished,2 BHK,All,Ready to Move,Velachery
+622,1 BHK Independent House  for Rent  In Velachery,"Independent House, TNHB Colony Near Sri Thulasi Bakery",430 sqft,50000,7000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+623,1 RK Independent House  for Lease  In Velachery,"Independent House,  Indira Gandhi Nagar, near Phoenix Marketcity",200 sqft,200000,-,No,Unfurnished,1 RK,Family,Ready to Move,Velachery
+624,1 BHK Independent House  for Rent  In Velachery,"Independent House,  Velachery - Tambaram Main Rd, near The Chennai Silks - Velachery",650 sqft,75000,15000,500,Semi furnished,1 BHK,All,Ready to Move,Velachery
+625,1 RK Independent House  for Rent  In Thiruvanmiyur,"Independent House, , Kalakshetra Rd near Kalakshetra Foundation",200 sqft,20000,4500,No,Unfurnished,1 RK,Family,Ready to Move,Thiruvanmiyur
+626,1 BHK Flat  for Rent  In Thiruvanmiyur,"standalone building, , Kalakshetra Rd near Kalakshetra Foundation",400 sqft,50000,10000,No,Unfurnished,1 BHK,Family,Ready to Move,Thiruvanmiyur
+627,1 RK Independent House  for Rent  In Tharamani,"Independent House, Lake View Street near to  Panchamukha Hanuman Temple",250 sqft,15000,4000,No,Unfurnished,1 RK,All,Ready to Move,Tharamani
+628,"1 BHK Flat  In Standalone Building  for Lease  In  Anna Nagar, ",", Lake View Street near  Panchamukha Hanuman Temple",400 sqft,450000,-,No,Unfurnished,1 BHK,All,Ready to Move,-
+629,1 RK Independent House  for Rent  In Velachery,"Independent House, 100 Feet Rd, near  GRTJewellers ",300 sqft,10000,3500,No,Unfurnished,1 RK,Family,Ready to Move,Velachery
+630,2 BHK Flat  In Standalone Buildingâ  for Rent  In Velachery,"Mgr nagar, 5th main near Chennai Metropolitan Water Supply & Sewerage Board",900 sqft,84000,14000,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+631,2 BHK Independent House  for Rent  In Velachery,"Independent House, Venkateshwara Nagar Rd,   Near  Sree Vedantha Eeswari Amman Alayam",900 sqft,50000,15000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+632,"1 BHK Independent House  for Lease  In  Tharamani, ","Independent House, Bharathi Nagar, near Good Shepherd 24 Hours Hospital",400 sqft,400000,-,No,Unfurnished,1 BHK,All,Ready to Move,Tharamani
+633,2 BHK Independent House  for Rent  In Tharamani,"Independent House, SRP Tools  Near Apollo Proton Cancer Centre",700 sqft,70000,14000,No,Semi furnished,2 BHK,Family,Ready to Move,Tharamani
+634,1 BHK Independent House  for Rent  In Velachery,"Independent House, TamilNadu Housing Board Colony, Periyar Nagar  near State Bank Of India",561 sqft,10000,4500,No,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+635,1 BHK Flat  In Standalone for Rent  In Thiruvanmiyur,Thiruvalluvar Nagar near RTO Thiruvanmiyur,500 sqft,30000,7000,300,Unfurnished,1 BHK,Family,Ready to Move,Thiruvanmiyur
+636,1 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Ambedkar Nagar near  Arulmigu Marundheeshvarar Temple",400 sqft,40000,9000,No,Unfurnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+637,1 RK Independent House  for Lease  In Thiruvanmiyur,"Independent House, N Mada St, Kamaraj Nagar Near Apollo Pharmacy Thiruvanmiyur -Ii",250 sqft,300000,-,No,Unfurnished,1 RK,All,Ready to Move,Thiruvanmiyur
+638,1 BHK Independent House  for Rent  In Velachery,"Independent House, TNHB Colony 4 th avenue Near Appa Amma Retail Store",400 sqft,40000,7000,300,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+639,1 BHK Independent House  for Rent  In  Velachery ,"Independent House, 2nd cross rd , MGR Nagar, Velachery - Tambaram Main Rd  Near GRTJewellers",300 sqft,20000,5000,500,Unfurnished,1 BHK,All,Ready to Move,Velachery
+640,1 RK Independent House  for Rent  In Velachery,"Independent House, Karnam Street, Near Arulmigu Sri Nava Sakthi Vinayagar Temple",250 sqft,20000,4000,No,Unfurnished,1 RK,All,Ready to Move,Velachery
+641,2 BHK Flat  for Rent  In Thiruvanmiyur,"standalone building, Thiruvalluvar Nagar, near RTO Thiruvanmiyur",700 sqft,80000,14000,500,Unfurnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+642,Shared Room for Male In 1 BHK  In Guindy,"Independent House, Nethaji Rd, Opposite Cart Track Road near St. Britto?s Academy",450 sqft,15000,5000,No,Unfurnished,1 BHK,,Ready to Move,-
+643,3 BHK Independent House  for Rent  In Velachery,"Independent House, Taramani Link Rd, near Naidu Hall The Family Store","1,500 sqft",150000,22000,750,Unfurnished,3 BHK,Family,Ready to Move,Velachery
+644,3 BHK Flat  In Aravinder Manre for Rent  In Vijaya Nagar,9th Main Road,"1,342 sqft",150000,15000,800,Unfurnished,3 BHK,All,Ready to Move,-
+645,2 BHK Independent House  for Rent  In Adambakkam,"Independent House, Bashyam layout  main road",880 sqft,50000,15000,No,Unfurnished,2 BHK,Family,Ready to Move,-
+646,1 BHK Independent House  for Rent  In Velachery,"Independent House, Near phoenix market ",500 sqft,40000,5000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+647,1 BHK Independent House  for Lease  In Velachery,"Independent House, Velachery Main Rd, Dhandeeswaram near Rajalakshmi Kalyana Mandapam",500 sqft,500000,-,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+648,1 BHK Independent House  for Rent  In  Velachery,"Independent House, Ayodhya Colony  near   David Matriculation Higher Secondary School",750 sqft,100000,10000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+649,2 BHK Flat  In Standalone Building  for Rent  In Velachery,"velachery main road, near Carves Skin Clinic",700 sqft,150000,18000,No,Semi furnished,2 BHK,All,Ready to Move,Velachery
+650,2 BHK Flat  In Appu Colony for Rent  In Thiruvanmiyur,west avenue,750 sqft,150000,20000,No,Semi furnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+651,1 RK Independent House  for Rent  In Velachery,"Independent House, Guru Nanak Salai , near Guru Nanak College",144 sqft,15000,5000,No,Semi furnished,1 RK,Family,Ready to Move,Velachery
+652,1 BHK Independent House  for Rent  In Velachery,"Independent House, AGS Colony, Near Rammiyam Supermarket",700 sqft,50000,10000,No,Semi furnished,1 BHK,All,Ready to Move,Velachery
+653,1 RK Flat  for Rent  In Tharamani,"standalone building, Pillaiyar kovil street near Modern Bread Company",400 sqft,50000,10000,No,Unfurnished,1 RK,All,Ready to Move,Tharamani
+654,2 BHK Independent House  for Rent  In Velachery,"Independent House, Brindavan Nagar Extension near CSI Church of Christ the King Adambakkam",800 sqft,50000,10500,500,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+655,2 BHK Flat  for Rent  In Velachery,"standalone building, TamilNadu Housing Board Colony Near State Bank Of India",650 sqft,60000,9000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+656,1 BHK Independent House  for Rent  In Velachery,"Independent House, Taramani 100 Feet Road, near  Tata Consultancy Services -Velachery ",350 sqft,40000,8500,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+657,2 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Rd near J.M. Jummah Masjid",800 sqft,75000,15000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+658,2 BHK Independent House  for Rent  In Velachery,"Independent House, AGS Colony near Rammiyam Supermarket",700 sqft,40000,13500,No,Semi furnished,2 BHK,Family,Ready to Move,Velachery
+659,1 BHK Independent House  for Lease  In Velachery,"Independent House, TNHB Colony, Near Britto School ",400 sqft,200000,-,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+660,2 BHK Independent House  for Rent  In Velachery,"Independent House, venkateshwara nagar,velachery near  GRTJewellers","1,000 sqft",50000,10000,No,Unfurnished,2 BHK,All,Ready to Move,Velachery
+661,1 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, 46th cross Street,Near Thiruvanmiyur R.T.O.",450 sqft,25000,9000,No,Semi furnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+662,1 BHK Independent House  for Rent  In Velachery,"Independent House,  TNHB Colony, near Britto School",600 sqft,45000,9000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+663,2 BHK Independent House  for Rent  In Velachery,"Independent House, Nehru Nagar, Near Muthu Maari Amman Tirukovil","1,000 sqft",80000,15000,No,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+664,2 BHK Flat  In Standalone Building  for Rent  In Velachery," Karunanidhi St, near Phoenix Market City, Nehru Nagar Near  Shree Lakshmi Clinic ",640 sqft,40000,11000,300,Unfurnished,2 BHK,Family,Ready to Move,Velachery
+665,1 BHK Independent House  for Rent  In Velachery,"Independent House,  Karunanidhi St Near Mother Theresa N & P School",400 sqft,30000,6500,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+666,1 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Rd,near  Phoenix Marketcity ",600 sqft,25000,6500,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+667,1 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, pillar koil street , near Adyar Students Xerox Pvt Ltd",350 sqft,20000,6500,1,Unfurnished,1 BHK,All,Ready to Move,Thiruvanmiyur
+668,1 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Rd Near Phoenix Marketcity",400 sqft,30000,6000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+669,1 BHK Flat  for Rent  In Velachery,"standalone building, Nehru Nagar near SRI KRISHNA SWEETS AND BAKERY",600 sqft,40000,8500,No,Semi furnished,1 BHK,Family,Ready to Move,Velachery
+670,1 BHK Independent House  for Rent  In  Velachery,"Independent House, Madhavan St, Nehru Nagar,  near Muthu Maariamman Temple",500 sqft,30000,10000,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+671,1 BHK Independent House  for Rent  In Velachery,"Independent House, Velachery Rd, Near  Phoenix Market City, ",500 sqft,10000,5000,No,Unfurnished,1 BHK,All,Ready to Move,Velachery
+672,1 RK Independent House  for Rent  In Velachery,"Independent House, Velachery Rd, near  Phoenix Marketcity ",300 sqft,10000,4700,No,Unfurnished,1 RK,Family,Ready to Move,Velachery
+673,1 RK Independent House  for Rent  In Velachery,"Independent House, 1st Main Rd, Jagannatha Puram near  YD MART SUPERMARKET [VELACHERY]",110 sqft,15000,4000,No,Unfurnished,1 RK,All,Ready to Move,Velachery
+674,2 BHK Independent House  for Rent  In Thiruvanmiyur,"Independent House, Kamaraj Nagar, near Arulmigu Sri Srinivasa Perumal Thirukoil -",900 sqft,100000,20000,No,Unfurnished,2 BHK,All,Ready to Move,Thiruvanmiyur
+675,1 BHK Independent House  for Rent  In Taramani,"Independent House,   Bharathi Nagar near Daily Hardware",900 sqft,20000,9000,No,Unfurnished,1 BHK,All,Ready to Move,-
+676,1 RK Independent House  for Rent  In  Tharamani,"Independent House,   Bharathi Nagar near Daily Hardware",150 sqft,15000,7000,No,Unfurnished,1 RK,All,Ready to Move,Tharamani
+677,1 BHK Independent House  for Rent  In Velachery,"Independent House, Throwpathy Amman Koil 4th Street near  Velachery Arima Sangam, Eye and General Hospital ",400 sqft,50000,11500,No,Unfurnished,1 BHK,Family,Ready to Move,Velachery
+678,1 BHK Flat  for Rent  In Tharamani,"Standalone building, Pillaiyar Koil St, Kanagam, Near Murugan Boys Paying Guest,and Green Mini Supermarket",500 sqft,60000,11000,No,Unfurnished,1 BHK,Family,Ready to Move,Tharamani
